@@ -26,10 +26,11 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [YOUR PROJECT 1] | Short description of what it does | SwiftUI, Firebase |
-| [YOUR PROJECT 2] | Short description of what it does | Flutter, Supabase |
-
-> Update this table whenever you start something new!
+| [DevDesign](https://github.com/cobra-PICH/DevDesign) | Offline-first iOS toolkit for designers & devs — palettes, typography, spacing & AI palette gen | SwiftUI, SwiftData, CloudKit |
+| [CoffeeCraft](https://github.com/cobra-PICH/CoffeeCraft) | Production coffee shop app with dual roles, real-time orders, in-app wallet & admin dashboard | SwiftUI, Firebase, MapKit |
+| [Backend](https://github.com/cobra-PICH/Backend) | Library management backend — books, loans, fines, reservations & admin UI | Python, FastAPI, SQLAlchemy, Docker |
+| [APIForge](https://github.com/cobra-PICH/APIForge) | Native multiplatform API client (macOS/iPadOS/iOS) — like Postman, but yours | SwiftUI, Swift Concurrency, URLSession |
+| [mlbb-stats](https://github.com/cobra-PICH/mlbb-stats) | MLBB MetaSight — hero stats, rankings, counters & Metal-powered splash screen | SwiftUI, async/await, Metal, iOS 16+ |
 
 ---
 
@@ -50,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cobra-PICH&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobra-PICH&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
