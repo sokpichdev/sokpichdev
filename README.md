@@ -22,7 +22,15 @@
 
 ---
 
-### 🚀 What I'm Working On
+### 💼 Professional Work
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Folkara](https://apps.apple.com/app/folkara) | Human Resource Management app on the App Store — attendance, leave workflows, onboarding & multi-language support | SwiftUI, REST API, Fastlane, Multi-env, Push Notifications, MVVM |
+
+---
+
+### 🚀 Solo Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
