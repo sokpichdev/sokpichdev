@@ -26,7 +26,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Folkara](https://apps.apple.com/app/folkara) | Human Resource Management app on the App Store — attendance, leave workflows, onboarding & multi-language support | SwiftUI, REST API, Fastlane, Multi-env, Push Notifications, MVVM |
+| [Folkara](projects/folkara.md) | Human Resource Management app on the App Store — attendance, leave workflows, onboarding & multi-language support | SwiftUI, REST API, Fastlane, Multi-env, Push Notifications, MVVM |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [DevDesign](https://github.com/cobra-PICH/DevDesign) | Offline-first iOS toolkit for designers & devs — palettes, typography, spacing & AI palette gen | SwiftUI, SwiftData, CloudKit |
-| [CoffeeCraft](https://github.com/cobra-PICH/CoffeeCraft) | Production coffee shop app with dual roles, real-time orders, in-app wallet & admin dashboard | SwiftUI, Firebase, MapKit |
-| [Backend](https://github.com/cobra-PICH/Backend) | Library management backend — books, loans, fines, reservations & admin UI | Python, FastAPI, SQLAlchemy, Docker |
-| [APIForge](https://github.com/cobra-PICH/APIForge) | Native multiplatform API client (macOS/iPadOS/iOS) — like Postman, but yours | SwiftUI, Swift Concurrency, URLSession |
-| [mlbb-stats](https://github.com/cobra-PICH/mlbb-stats) | MLBB MetaSight — hero stats, rankings, counters & Metal-powered splash screen | SwiftUI, async/await, Metal, iOS 16+ |
+| [DevDesign](projects/devdesign.md) | Offline-first iOS toolkit for designers & devs — palettes, typography, spacing & AI palette gen | SwiftUI, SwiftData, CloudKit |
+| [CoffeeCraft](projects/coffeecraft.md) | Production coffee shop app with dual roles, real-time orders, in-app wallet & admin dashboard | SwiftUI, Firebase, MapKit |
+| [Backend](projects/backend.md) | Library management backend — books, loans, fines, reservations & admin UI | Python, FastAPI, SQLAlchemy, Docker |
+| [APIForge](projects/apiforge.md) | Native multiplatform API client (macOS/iPadOS/iOS) — like Postman, but yours | SwiftUI, Swift Concurrency, URLSession |
+| [mlbb-stats](projects/mlbb-stats.md) | MLBB MetaSight — hero stats, rankings, counters & Metal-powered splash screen | SwiftUI, async/await, Metal, iOS 16+ |
 
 ---
 
@@ -52,15 +52,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fawn-psi-63.vercel.app/api?username=cobra-PICH&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-fawn-psi-63.vercel.app/api/top-langs/?username=cobra-PICH&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
