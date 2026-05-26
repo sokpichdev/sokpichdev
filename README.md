@@ -26,7 +26,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Folkara](projects/folkara.md) | HR & Leave Management app on the App Store — attendance, leave requests, multi-step approval workflows, biometric auth & multi-language | SwiftUI, MVVM, Firebase, Fastlane, Push Notifications |
+| [Folkara](projects/folkara.md) | HR & WorkFlow Management app on the App Store — attendance, leave requests, multi-step approval workflows, biometric auth & multi-language | SwiftUI, MVVM, Firebase, Fastlane, Push Notifications |
 
 ---
 
@@ -38,7 +38,7 @@
 | [CoffeeCraft](projects/coffeecraft.md) | Production coffee shop app with dual roles, real-time orders, in-app wallet & admin dashboard | SwiftUI, Firebase, MapKit |
 | [Backend](projects/backend.md) | Library management backend — books, loans, fines, reservations & admin UI | Python, FastAPI, SQLAlchemy, Docker |
 | [APIForge](projects/apiforge.md) | Native multiplatform API client (macOS/iPadOS/iOS) — like Postman, but yours | SwiftUI, Swift Concurrency, URLSession |
-| [mlbb-stats](projects/mlbb-stats.md) | MLBB MetaSight — hero stats, rankings, counters & Metal-powered splash screen | SwiftUI, async/await, Metal, iOS 16+ |
+| [MLBB MetaSight](projects/mlbb-stats.md) | MLBB companion — hero stats, rankings, counters, in-game login & match history, with a Metal-powered splash & 16-language support | SwiftUI, async/await, Metal, iOS 16+ |
 
 ---
 
