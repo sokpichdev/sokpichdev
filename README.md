@@ -26,7 +26,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Folkara](projects/folkara.md) | Human Resource Management app on the App Store — attendance, leave workflows, onboarding & multi-language support | SwiftUI, REST API, Fastlane, Multi-env, Push Notifications, MVVM |
+| [Folkara](projects/folkara.md) | HR & Leave Management app on the App Store — attendance, leave requests, multi-step approval workflows, biometric auth & multi-language | SwiftUI, MVVM, Firebase, Fastlane, Push Notifications |
 
 ---
 
