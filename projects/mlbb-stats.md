@@ -2,8 +2,6 @@
 
 > Mobile Legends: Bang Bang companion app — hero stats, rankings, counters, and a Metal-powered splash screen
 
-*Repository: `mlbb-stats`*
-
 ## Overview
 
 MLBB MetaSight is a SwiftUI iOS app for browsing Mobile Legends: Bang Bang hero data — stats, rankings, lane positions, skill combos, counter matchups, and more. It features a gold-on-navy themed UI, a Metal-powered animated splash screen, offline caching, in-game user login with match history, and full localization across 16 languages served at runtime.
@@ -27,7 +25,7 @@ MLBB MetaSight is a SwiftUI iOS app for browsing Mobile Legends: Bang Bang hero 
 - **Privacy settings** to toggle profile visibility
 
 ### Platform
-- **16-language localization** (EN, ZH, ZH-TW, TH, ID, VI, MS, PT, ES, AR, TR, KO, JA, RU, DE, KM) loaded at runtime
+- **16-language localization** (EN, KM, ZH, ZH-TW, TH, ID, VI, MS, PT, ES, AR, TR, KO, JA, RU, DE) loaded at runtime
 - **Offline cache** — file-based JSON caching with staleness indicators and network-aware refresh
 - **Metal splash** — animated launch with particle spiral and ring flare, with a SwiftUI fallback for Reduce Motion / non-Metal devices
 
