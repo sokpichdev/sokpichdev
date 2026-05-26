@@ -29,6 +29,18 @@ APIForge is a native Apple-platform API client — think Postman, but built enti
 - Swift Concurrency keeps the UI fully responsive during network requests
 - No Electron, no web wrapper — entirely native performance
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/apiforge/screenshot-mac.png" width="600"/>
+</p>
+<p align="center">
+  <img src="assets/apiforge/screenshot-ipad.png" width="400"/>
+  <img src="assets/apiforge/screenshot-iphone.png" width="200"/>
+</p>
+
+> _Add screenshots to `projects/assets/apiforge/` and update the filenames above (Mac/iPad/iPhone views show off the multiplatform layout)._
+
 ## Links
 
 - [GitHub](https://github.com/cobra-PICH/APIForge)

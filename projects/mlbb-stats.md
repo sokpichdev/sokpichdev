@@ -80,6 +80,16 @@ MLBB MetaSight/
 - **Full MLBB account integration** — in-game verification login, match history, and friends
 - Clean, token-driven theming system reused across every feature module
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/mlbb-stats/screenshot-1.png" width="240"/>
+  <img src="assets/mlbb-stats/screenshot-2.png" width="240"/>
+  <img src="assets/mlbb-stats/screenshot-3.png" width="240"/>
+</p>
+
+> _Add screenshots to `projects/assets/mlbb-stats/` and update the filenames above. The Metal splash and 7-tab hero detail make strong shots._
+
 ## Credits
 
 Hero data provided by the open-source [ridwaanhall/api-mobilelegends](https://github.com/ridwaanhall/api-mobilelegends). MLBB game assets are property of Moonton.

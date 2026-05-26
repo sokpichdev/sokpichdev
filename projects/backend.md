@@ -30,6 +30,14 @@ A fully containerized backend system for managing a library — handling books, 
 - SQLAlchemy ORM abstracts database operations cleanly across all models
 - Docker setup makes it portable — spin up the full stack with one command
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/backend/swagger-docs.png" width="700"/>
+</p>
+
+> _Backend has no app UI — a screenshot of the auto-generated FastAPI `/docs` (Swagger) page or the admin UI works best. Add it to `projects/assets/backend/` and update the filename above._
+
 ## Links
 
 - [GitHub](https://github.com/cobra-PICH/Backend)

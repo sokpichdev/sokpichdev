@@ -29,6 +29,16 @@ DevDesign is a native iOS utility app built for designers and developers who nee
 - CloudKit integration keeps palettes and saved references in sync across devices
 - AI palette generation lets you create cohesive color schemes from a prompt
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/devdesign/screenshot-1.png" width="240"/>
+  <img src="assets/devdesign/screenshot-2.png" width="240"/>
+  <img src="assets/devdesign/screenshot-3.png" width="240"/>
+</p>
+
+> _Add screenshots to `projects/assets/devdesign/` and update the filenames above._
+
 ## Links
 
 - [GitHub](https://github.com/cobra-PICH/DevDesign)

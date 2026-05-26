@@ -30,6 +30,16 @@ CoffeeCraft is a full-featured coffee shop iOS app built to simulate a real-worl
 - Real-time order pipeline — customers see live status updates as admins process orders
 - In-app wallet reduces dependency on external payment flows for demo/prototype use
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/coffeecraft/screenshot-1.png" width="240"/>
+  <img src="assets/coffeecraft/screenshot-2.png" width="240"/>
+  <img src="assets/coffeecraft/screenshot-3.png" width="240"/>
+</p>
+
+> _Add screenshots to `projects/assets/coffeecraft/` and update the filenames above._
+
 ## Links
 
 - [GitHub](https://github.com/cobra-PICH/CoffeeCraft)

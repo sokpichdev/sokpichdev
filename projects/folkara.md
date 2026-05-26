@@ -101,6 +101,16 @@ LMS-iOS/
 - Dynamic, formula-driven request forms that resolve field values at runtime
 - Substantial in-house component library reused across the app
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/folkara/screenshot-1.png" width="240"/>
+  <img src="assets/folkara/screenshot-2.png" width="240"/>
+  <img src="assets/folkara/screenshot-3.png" width="240"/>
+</p>
+
+> _This is a company app — use the public App Store marketing screenshots, or blur/redact any real employee data before publishing. Add them to `projects/assets/folkara/` and update the filenames above._
+
 ## Links
 
 - [App Store](https://apps.apple.com/app/folkara)
