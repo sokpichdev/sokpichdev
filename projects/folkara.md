@@ -104,9 +104,9 @@ LMS-iOS/
 ## Screenshots
 
 <p align="center">
-  <img src="assets/folkara/screenshot-1.png" width="240"/>
-  <img src="assets/folkara/screenshot-2.png" width="240"/>
-  <img src="assets/folkara/screenshot-3.png" width="240"/>
+  <img src="assets/folkara/screenshot-1.png" width="160"/>
+  <img src="assets/folkara/screenshot-2.png" width="160"/>
+  <img src="assets/folkara/screenshot-3.png" width="160"/>
 </p>
 ## Links
 

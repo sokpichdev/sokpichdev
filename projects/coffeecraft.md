@@ -167,9 +167,9 @@ CoffeeCraft/
 ## Screenshots
 
 <p align="center">
-  <img src="assets/coffeecraft/screenshot-1.png" width="240"/>
-  <img src="assets/coffeecraft/screenshot-2.png" width="240"/>
-  <img src="assets/coffeecraft/screenshot-3.png" width="240"/>
+  <img src="assets/coffeecraft/screenshot-1.png" width="160"/>
+  <img src="assets/coffeecraft/screenshot-2.png" width="160"/>
+  <img src="assets/coffeecraft/screenshot-3.png" width="160"/>
 </p>
 
 > _Add screenshots to `projects/assets/coffeecraft/` and update the filenames above._
