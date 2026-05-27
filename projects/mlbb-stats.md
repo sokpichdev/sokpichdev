@@ -82,10 +82,51 @@ MLBB MetaSight/
 
 ## Screenshots
 
+**Launch & Auth**
+
 <p align="center">
-  <img src="assets/mlbb-stats/screenshot-1.png" width="240"/>
-  <img src="assets/mlbb-stats/screenshot-2.png" width="240"/>
-  <img src="assets/mlbb-stats/screenshot-3.png" width="240"/>
+  <img src="assets/mlbb-stats/splash_screen.png" width="220"/>
+  <img src="assets/mlbb-stats/login_screen.png" width="220"/>
+</p>
+
+**Heroes**
+
+<p align="center">
+  <img src="assets/mlbb-stats/heroes_list.png" width="220"/>
+  <img src="assets/mlbb-stats/heroes_flow.png" width="220"/>
+  <img src="assets/mlbb-stats/hero_rankings.png" width="220"/>
+  <img src="assets/mlbb-stats/hero_positions.png" width="220"/>
+  <img src="assets/mlbb-stats/hero_search.png" width="220"/>
+  <img src="assets/mlbb-stats/hero_favorite.png" width="220"/>
+</p>
+
+**Academy**
+
+<p align="center">
+  <img src="assets/mlbb-stats/academy_ranks.png" width="220"/>
+  <img src="assets/mlbb-stats/academy_recommended.png" width="220"/>
+  <img src="assets/mlbb-stats/academy_spells.png" width="220"/>
+  <img src="assets/mlbb-stats/academy_emblems.png" width="220"/>
+</p>
+
+**User Profile**
+
+<p align="center">
+  <img src="assets/mlbb-stats/side_menu_guest.png" width="220"/>
+  <img src="assets/mlbb-stats/side_menu_user.png" width="220"/>
+  <img src="assets/mlbb-stats/user_stats.png" width="220"/>
+  <img src="assets/mlbb-stats/frequent_heroes.png" width="220"/>
+  <img src="assets/mlbb-stats/friends.png" width="220"/>
+  <img src="assets/mlbb-stats/matches_history.png" width="220"/>
+  <img src="assets/mlbb-stats/matches_history_filter.png" width="220"/>
+</p>
+
+**Settings & Filters**
+
+<p align="center">
+  <img src="assets/mlbb-stats/settings.png" width="220"/>
+  <img src="assets/mlbb-stats/content_language.png" width="220"/>
+  <img src="assets/mlbb-stats/fliter_sheet.png" width="220"/>
 </p>
 
 ## Credits
