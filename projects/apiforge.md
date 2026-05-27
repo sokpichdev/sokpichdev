@@ -32,11 +32,11 @@ APIForge is a native Apple-platform API client — think Postman, but built enti
 ## Screenshots
 
 <p align="center">
-  <img src="assets/apiforge/screenshot-mac.png" width="600"/>
+  <img src="assets/apiforge/screenshot-mac.png" width="160"/>
 </p>
 <p align="center">
-  <img src="assets/apiforge/screenshot-ipad.png" width="400"/>
-  <img src="assets/apiforge/screenshot-iphone.png" width="200"/>
+  <img src="assets/apiforge/screenshot-ipad.png" width="160"/>
+  <img src="assets/apiforge/screenshot-iphone.png" width="160"/>
 </p>
 
 > _Add screenshots to `projects/assets/apiforge/` and update the filenames above (Mac/iPad/iPhone views show off the multiplatform layout)._

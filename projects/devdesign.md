@@ -32,9 +32,9 @@ DevDesign is a native iOS utility app built for designers and developers who nee
 ## Screenshots
 
 <p align="center">
-  <img src="assets/devdesign/screenshot-1.png" width="240"/>
-  <img src="assets/devdesign/screenshot-2.png" width="240"/>
-  <img src="assets/devdesign/screenshot-3.png" width="240"/>
+  <img src="assets/devdesign/screenshot-1.png" width="160"/>
+  <img src="assets/devdesign/screenshot-2.png" width="160"/>
+  <img src="assets/devdesign/screenshot-3.png" width="160"/>
 </p>
 
 > _Add screenshots to `projects/assets/devdesign/` and update the filenames above._
