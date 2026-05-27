@@ -85,59 +85,59 @@ MLBB MetaSight/
 **Launch & Auth**
 
 <p align="center">
-  <img src="assets/mlbb-stats/splash_screen.png" width="220"/>
-  <img src="assets/mlbb-stats/login_screen.png" width="220"/>
+  <img src="assets/mlbb-stats/splash_screen.png" width="200"/>
+  <img src="assets/mlbb-stats/login_screen.png" width="200"/>
 </p>
 
 **Heroes**
 
 <p align="center">
-  <img src="assets/mlbb-stats/heroes_list.png" width="220"/>
-  <img src="assets/mlbb-stats/heroes_flow.png" width="220"/>
-  <img src="assets/mlbb-stats/hero_rankings.png" width="220"/>
-  <img src="assets/mlbb-stats/hero_positions.png" width="220"/>
-  <img src="assets/mlbb-stats/hero_search.png" width="220"/>
-  <img src="assets/mlbb-stats/hero_favorite.png" width="220"/>
+  <img src="assets/mlbb-stats/heroes_list.png" width="200"/>
+  <img src="assets/mlbb-stats/heroes_flow.png" width="200"/>
+  <img src="assets/mlbb-stats/hero_rankings.png" width="200"/>
+  <img src="assets/mlbb-stats/hero_positions.png" width="200"/>
+  <img src="assets/mlbb-stats/hero_search.png" width="200"/>
+  <img src="assets/mlbb-stats/hero_favorite.png" width="200"/>
 </p>
 
 **Academy**
 
 <p align="center">
-  <img src="assets/mlbb-stats/academy_ranks.png" width="220"/>
-  <img src="assets/mlbb-stats/academy_recommended.png" width="220"/>
-  <img src="assets/mlbb-stats/academy_spells.png" width="220"/>
-  <img src="assets/mlbb-stats/academy_emblems.png" width="220"/>
+  <img src="assets/mlbb-stats/academy_ranks.png" width="200"/>
+  <img src="assets/mlbb-stats/academy_recommended.png" width="200"/>
+  <img src="assets/mlbb-stats/academy_spells.png" width="200"/>
+  <img src="assets/mlbb-stats/academy_emblems.png" width="200"/>
 </p>
 
 **User Profile**
 
 <p align="center">
-  <img src="assets/mlbb-stats/side_menu_guest.png" width="220"/>
-  <img src="assets/mlbb-stats/side_menu_user.png" width="220"/>
-  <img src="assets/mlbb-stats/user_stats.png" width="220"/>
-  <img src="assets/mlbb-stats/frequent_heroes.png" width="220"/>
-  <img src="assets/mlbb-stats/friends.png" width="220"/>
-  <img src="assets/mlbb-stats/matches_history.png" width="220"/>
-  <img src="assets/mlbb-stats/matches_history_filter.png" width="220"/>
+  <img src="assets/mlbb-stats/side_menu_guest.png" width="200"/>
+  <img src="assets/mlbb-stats/side_menu_user.png" width="200"/>
+  <img src="assets/mlbb-stats/user_stats.png" width="200"/>
+  <img src="assets/mlbb-stats/frequent_heroes.png" width="200"/>
+  <img src="assets/mlbb-stats/friends.png" width="200"/>
+  <img src="assets/mlbb-stats/matches_history.png" width="200"/>
+  <img src="assets/mlbb-stats/matches_history_filter.png" width="200"/>
 </p>
 
 **Hero Detail**
 
 <p align="center">
-  <img src="assets/mlbb-stats/hero_detail_overview.gif" width="220"/>
-  <img src="assets/mlbb-stats/hero_detail_stats.gif" width="220"/>
-  <img src="assets/mlbb-stats/hero_detail_counters.gif" width="220"/>
-  <img src="assets/mlbb-stats/hero_detail_skills_combo.gif" width="220"/>
-  <img src="assets/mlbb-stats/hero_detail_compatibility.png" width="220"/>
-  <img src="assets/mlbb-stats/hero_detail_relations.png" width="220"/>
+  <img src="assets/mlbb-stats/hero_detail_overview.gif" width="200"/>
+  <img src="assets/mlbb-stats/hero_detail_stats.gif" width="200"/>
+  <img src="assets/mlbb-stats/hero_detail_counters.gif" width="200"/>
+  <img src="assets/mlbb-stats/hero_detail_skills_combo.gif" width="200"/>
+  <img src="assets/mlbb-stats/hero_detail_compatibility.png" width="200"/>
+  <img src="assets/mlbb-stats/hero_detail_relations.png" width="200"/>
 </p>
 
 **Settings & Filters**
 
 <p align="center">
-  <img src="assets/mlbb-stats/settings.png" width="220"/>
-  <img src="assets/mlbb-stats/content_language.png" width="220"/>
-  <img src="assets/mlbb-stats/fliter_sheet.png" width="220"/>
+  <img src="assets/mlbb-stats/settings.png" width="200"/>
+  <img src="assets/mlbb-stats/content_language.png" width="200"/>
+  <img src="assets/mlbb-stats/fliter_sheet.png" width="200"/>
 </p>
 
 ## Credits
