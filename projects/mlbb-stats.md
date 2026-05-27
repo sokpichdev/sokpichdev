@@ -124,6 +124,10 @@ MLBB MetaSight/
 **Hero Detail**
 
 <p align="center">
+  <img src="assets/mlbb-stats/hero_detail_overview.gif" width="220"/>
+  <img src="assets/mlbb-stats/hero_detail_stats.gif" width="220"/>
+  <img src="assets/mlbb-stats/hero_detail_counters.gif" width="220"/>
+  <img src="assets/mlbb-stats/hero_detail_skills_combo.gif" width="220"/>
   <img src="assets/mlbb-stats/hero_detail_compatibility.png" width="220"/>
   <img src="assets/mlbb-stats/hero_detail_relations.png" width="220"/>
 </p>
