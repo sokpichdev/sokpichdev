@@ -121,6 +121,13 @@ MLBB MetaSight/
   <img src="assets/mlbb-stats/matches_history_filter.png" width="220"/>
 </p>
 
+**Hero Detail**
+
+<p align="center">
+  <img src="assets/mlbb-stats/hero_detail_compatibility.png" width="220"/>
+  <img src="assets/mlbb-stats/hero_detail_relations.png" width="220"/>
+</p>
+
 **Settings & Filters**
 
 <p align="center">
