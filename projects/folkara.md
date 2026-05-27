@@ -110,4 +110,4 @@ LMS-iOS/
 </p>
 ## Links
 
-- [App Store](https://apps.apple.com/app/folkara)
+- [App Store](https://apps.apple.com/kh/app/folkara/id6745320437)
