@@ -1,10 +1,10 @@
-# InfoWeb iOS
+# LuckyInfos
 
 > Sports & Lottery information platform with real-time live scores — available on the App Store
 
 ## Overview
 
-InfoWeb is a production iOS app serving sports fans and lottery enthusiasts across multiple countries. Users can follow live match scores, browse league standings, track lottery results, generate predictions, and bookmark their favorite events — all with real-time WebSocket updates and full multi-language support.
+LuckyInfos is a production iOS app serving sports fans and lottery enthusiasts across multiple countries. Users can follow live match scores, browse league standings, track lottery results, generate predictions, and bookmark their favorite events — all with real-time WebSocket updates and full multi-language support.
 
 ## Features
 
