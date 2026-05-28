@@ -171,6 +171,7 @@ CoffeeCraft/
   <img src="assets/coffeecraft/customers/home.gif" width="160"/>
   <img src="assets/coffeecraft/customers/login.png" width="160"/>
   <img src="assets/coffeecraft/customers/signup.png" width="160"/>
+  <img src="assets/coffeecraft/customers/forget_password.png" width="160"/>
   <img src="assets/coffeecraft/customers/loading.png" width="160"/>
   <img src="assets/coffeecraft/customers/menu.png" width="160"/>
   <img src="assets/coffeecraft/customers/search_menu.png" width="160"/>
@@ -191,19 +192,18 @@ CoffeeCraft/
   <img src="assets/coffeecraft/customers/branch_info.png" width="160"/>
   <img src="assets/coffeecraft/customers/settings.png" width="160"/>
   <img src="assets/coffeecraft/customers/color_pallete.png" width="160"/>
-  <img src="assets/coffeecraft/customers/forget_password.png" width="160"/>
+    <img src="assets/coffeecraft/admin/inbox.png" width="160"/>
 </p>
 
 ### Admin Dashboard
 <p align="center">
   <img src="assets/coffeecraft/admin/sales_analytics.png" width="160"/>
+    <img src="assets/coffeecraft/admin/pick_ordering_hours.png" width="160"/>
   <img src="assets/coffeecraft/admin/best_sellers.png" width="160"/>
   <img src="assets/coffeecraft/admin/product_performance.png" width="160"/>
   <img src="assets/coffeecraft/admin/rating_sales.png" width="160"/>
   <img src="assets/coffeecraft/admin/order_analytics_history.png" width="160"/>
   <img src="assets/coffeecraft/admin/order_analytics_funnel.png" width="160"/>
-  <img src="assets/coffeecraft/admin/pick_ordering_hours.png" width="160"/>
-  <img src="assets/coffeecraft/admin/inbox.png" width="160"/>
   <img src="assets/coffeecraft/admin/review_moderation.png" width="160"/>
   <img src="assets/coffeecraft/admin/users_detail.png" width="160"/>
   <img src="assets/coffeecraft/admin/users_info.png" width="160"/>
