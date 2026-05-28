@@ -168,6 +168,7 @@ CoffeeCraft/
 
 ### Customer App
 <p align="center">
+  <img src="assets/coffeecraft/customers/home.gif" width="160"/>
   <img src="assets/coffeecraft/customers/login.png" width="160"/>
   <img src="assets/coffeecraft/customers/signup.png" width="160"/>
   <img src="assets/coffeecraft/customers/loading.png" width="160"/>
