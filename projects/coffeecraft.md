@@ -170,6 +170,8 @@ CoffeeCraft/
 <p align="center">
   <img src="assets/coffeecraft/customers/home.gif" width="160"/>
   <img src="assets/coffeecraft/customers/login.png" width="160"/>
+  <img src="assets/coffeecraft/customers/delivery.png" width="160"/>
+  <img src="assets/coffeecraft/customers/find_branch.png" width="160"/>
   <img src="assets/coffeecraft/customers/signup.png" width="160"/>
   <img src="assets/coffeecraft/customers/forget_password.png" width="160"/>
   <img src="assets/coffeecraft/customers/loading.png" width="160"/>
@@ -179,7 +181,6 @@ CoffeeCraft/
   <img src="assets/coffeecraft/customers/cart.png" width="160"/>
   <img src="assets/coffeecraft/customers/pickup_delivery.png" width="160"/>
   <img src="assets/coffeecraft/customers/payment_method.png" width="160"/>
-  <img src="assets/coffeecraft/customers/delivery.png" width="160"/>
   <img src="assets/coffeecraft/customers/orders.png" width="160"/>
   <img src="assets/coffeecraft/customers/order_detail.png" width="160"/>
   <img src="assets/coffeecraft/customers/wallet.png" width="160"/>
@@ -188,11 +189,9 @@ CoffeeCraft/
   <img src="assets/coffeecraft/customers/shared_cards.png" width="160"/>
   <img src="assets/coffeecraft/customers/account.png" width="160"/>
   <img src="assets/coffeecraft/customers/edit_profile.png" width="160"/>
-  <img src="assets/coffeecraft/customers/find_branch.png" width="160"/>
   <img src="assets/coffeecraft/customers/branch_info.png" width="160"/>
   <img src="assets/coffeecraft/customers/settings.png" width="160"/>
   <img src="assets/coffeecraft/customers/color_pallete.png" width="160"/>
-    <img src="assets/coffeecraft/admin/inbox.png" width="160"/>
 </p>
 
 ### Admin Dashboard
