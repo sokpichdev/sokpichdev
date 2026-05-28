@@ -27,6 +27,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Folkara](projects/folkara.md) | HR & WorkFlow Management app on the App Store — attendance, leave requests, multi-step approval workflows, biometric auth & multi-language | SwiftUI, MVVM, Firebase, Fastlane, Push Notifications |
+| [InfoWeb iOS](projects/infoweb-ios.md) | Sports & lottery information platform on the App Store — real-time live scores, Socket.IO updates, multi-country lottery results & multi-language support | SwiftUI, MVVM, Socket.IO, Firebase, AES Encryption |
 
 ---
 
