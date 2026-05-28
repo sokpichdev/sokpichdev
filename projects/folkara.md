@@ -104,9 +104,14 @@ LMS-iOS/
 ## Screenshots
 
 <p align="center">
-  <img src="assets/folkara/screenshot-1.png" width="160"/>
-  <img src="assets/folkara/screenshot-2.png" width="160"/>
-  <img src="assets/folkara/screenshot-3.png" width="160"/>
+  <img src="assets/folkara/home.png" width="160"/>
+  <img src="assets/folkara/attendance.png" width="160"/>
+  <img src="assets/folkara/notification.png" width="160"/>
+  <img src="assets/folkara/request.png" width="160"/>
+  <img src="assets/folkara/submit_request.png" width="160"/>
+  <img src="assets/folkara/request_detail_cc_copy.png" width="160"/>
+  <img src="assets/folkara/request_detail_ccd_record_comment.png" width="160"/>
+  <img src="assets/folkara/switch_org.png" width="160"/>
 </p>
 ## Links
 
