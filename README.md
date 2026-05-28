@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm [cobra-PICH]</h1>
+<h1 align="center">Hey there 👋 I'm [Sok Pich]</h1>
 
 <p align="center">
   📱 iOS Developer by day · 🦋 Flutter explorer by night · ☕ Coffee-powered always
