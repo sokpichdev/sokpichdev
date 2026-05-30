@@ -1,7 +1,9 @@
-<h1 align="center">Hey there 👋 I'm Sok Pich</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github+Profile;Hello%2C+I%27m+Sok+Pich" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  📱 iOS Developer by day · 🦋 Flutter explorer by night · ☕ Coffee-powered always
+  📱 iOS Developer by day · 🦋 Flutter explorer by night.
 </p>
 
 <p align="center">
