@@ -148,13 +148,47 @@ DevDesign/
 
 ## Screenshots
 
+### Color & Palette
 <p align="center">
-  <img src="assets/devdesign/screenshot-1.png" width="160"/>
-  <img src="assets/devdesign/screenshot-2.png" width="160"/>
-  <img src="assets/devdesign/screenshot-3.png" width="160"/>
+  <img src="assets/devdesign/color_picker.gif" width="200"/>
+  <img src="assets/devdesign/palette_generator.gif" width="200"/>
+  <img src="assets/devdesign/gradient_builder.gif" width="200"/>
 </p>
 
-> _Add screenshots to `projects/assets/devdesign/` and update the filenames above._
+### AI Features
+<p align="center">
+  <img src="assets/devdesign/ai_palette_generator.gif" width="200"/>
+  <img src="assets/devdesign/ai_history.gif" width="200"/>
+</p>
+
+### Typography & Tokens
+<p align="center">
+  <img src="assets/devdesign/type_scale.gif" width="200"/>
+  <img src="assets/devdesign/font_pairings.gif" width="200"/>
+  <img src="assets/devdesign/token_explorer.gif" width="200"/>
+</p>
+
+### Components & Accessibility
+<p align="center">
+  <img src="assets/devdesign/components.gif" width="200"/>
+  <img src="assets/devdesign/contrast_checker.gif" width="200"/>
+  <img src="assets/devdesign/sf_symbols.gif" width="200"/>
+  <img src="assets/devdesign/sf_symbols_detail.gif" width="200"/>
+</p>
+
+### Layout & Spacing
+<p align="center">
+  <img src="assets/devdesign/layout_inspector.gif" width="200"/>
+  <img src="assets/devdesign/layout_inspector_safe_area.gif" width="200"/>
+  <img src="assets/devdesign/spacing_system.gif" width="200"/>
+</p>
+
+### Animations & Effects
+<p align="center">
+  <img src="assets/devdesign/animation_playground.gif" width="200"/>
+  <img src="assets/devdesign/border_decorations.gif" width="200"/>
+  <img src="assets/devdesign/shadow_playground.gif" width="200"/>
+</p>
 
 ## Links
 
