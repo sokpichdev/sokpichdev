@@ -16,11 +16,11 @@
 
 ### 🙋 About Me
 
-- 🔨 Building native iOS apps with **Swift, SwiftUI & UIKit**
-- 🦋 Crossing platforms with **Flutter & Dart**
-- 🔥 Backend magic via **Firebase & Supabase**
-- ☕ Fueled entirely by coffee — decaf is not an option
-- 💼 Currently employed & building things I'm proud of
+- Shipping iOS apps to the App Store — production code, real users, real constraints
+- Swift & SwiftUI at the core; Flutter when the job calls for it
+- Obsessed with the gap between "it works" and "it feels right"
+- Build end-to-end: clean architecture, backend integrations, CI/CD with Fastlane
+- Full-time engineer. Solo builder on weekends. Coffee non-negotiable.
 
 ---
 
@@ -59,7 +59,6 @@
 ### ☁️ Backend & Services
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Push_Notifications-FF3B30?style=for-the-badge&logo=apple&logoColor=white"/>
