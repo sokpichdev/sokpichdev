@@ -39,7 +39,7 @@
 |--------|-------------|-------|
 | [DevDesign](projects/devdesign.md) | Offline-first iOS toolkit for designers & devs — palettes, typography, spacing & AI palette gen | SwiftUI, SwiftData, CloudKit |
 | [CoffeeCraft](projects/coffeecraft.md) | Production coffee shop app with dual roles, real-time orders, in-app wallet & admin dashboard | SwiftUI, Firebase, MapKit |
-| [Backend](projects/backend.md) | Library management backend — books, loans, fines, reservations & admin UI | Python, FastAPI, SQLAlchemy, Docker |
+| [Library Backend](projects/library-backend.md) | Library management backend — books, loans, fines, reservations & admin UI | Python, FastAPI, SQLAlchemy, Docker |
 | [APIForge](projects/apiforge.md) | Native multiplatform API client (macOS/iPadOS/iOS) — like Postman, but yours | SwiftUI, Swift Concurrency, URLSession |
 | [MLBB MetaSight](projects/mlbb-stats.md) | MLBB companion — hero stats, rankings, counters, in-game login & match history, with a Metal-powered splash & 16-language support | SwiftUI, async/await, Metal, iOS 16+ |
 

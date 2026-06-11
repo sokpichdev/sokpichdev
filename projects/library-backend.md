@@ -1,4 +1,4 @@
-# Backend
+# Library Backend
 
 > Library management REST API with admin UI
 
@@ -33,10 +33,10 @@ A fully containerized backend system for managing a library — handling books, 
 ## Screenshots
 
 <p align="center">
-  <img src="assets/backend/swagger-docs.png" width="160"/>
+  <img src="assets/library-backend/swagger-docs.png" width="160"/>
 </p>
 
-> _Backend has no app UI — a screenshot of the auto-generated FastAPI `/docs` (Swagger) page or the admin UI works best. Add it to `projects/assets/backend/` and update the filename above._
+> _Backend has no app UI — a screenshot of the auto-generated FastAPI `/docs` (Swagger) page or the admin UI works best. Add it to `projects/assets/library-backend/` and update the filename above._
 
 ## Links
 
