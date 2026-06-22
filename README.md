@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github+Profile;Hello%2C+I%27m+Sok+Pich" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sok+Pich;iOS+Developer+%26+Mobile+Engineer;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+Flutter;Shipping+apps+to+the+App+Store" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,6 +11,11 @@
   <a href="https://x.com/PICH16869"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:pichsok016@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://portfolio-flame-eta-etrjgpxb96.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sokpichdev&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/sokpichdev?tab=followers"><img src="https://img.shields.io/github/followers/sokpichdev?label=Follow&style=flat-square&color=58A6FF&logo=github&logoColor=white" alt="Followers" /></a>
 </p>
 
 ---
@@ -81,6 +86,23 @@ Backend, web &amp; systems tech picked up across side projects.
 | **Backend** | <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688"/> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/> |
 | **Web** | <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white"/> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css&logoColor=1572B6"/> <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=0055FF"/> |
 | **Databases** | <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img alt="Redis" src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438"/> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57"/> |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sokpichdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sok Pich's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokpichdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sokpichdev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sokpichdev&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" alt="Contribution graph" />
+</p>
 
 ---
 
