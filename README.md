@@ -39,6 +39,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Mobile Engineering Agents](https://github.com/sokpichdev/mobile-engineering-agents) | Open-source toolkit that turns AI coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini, Aider) into senior mobile engineers — agents, skills, workflows & standards. ⭐ Free to use & fork | Markdown, AI Agents, iOS/Swift, MIT |
+| [iOS QA](https://github.com/sokpichdev/ios-qa) | Open-source iOS developer interview-prep site — browse & filter questions, quiz yourself with instant feedback, and track progress. No backend; runs fully in the browser. [Live demo](https://sokpichdev.github.io/ios-qa/) | Next.js, React, TypeScript, Tailwind CSS, MIT |
 
 ---
 
