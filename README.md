@@ -55,7 +55,10 @@
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
+### 📱 Core — Mobile Engineering
+> What I do day in, day out — production iOS apps on the App Store.
+
+#### 📱 Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -64,7 +67,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-### ☁️ Backend & Services
+#### ☁️ Backend & Services
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -72,7 +75,7 @@
   <img src="https://img.shields.io/badge/Push_Notifications-FF3B30?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-### 🚀 DevOps & CI/CD
+#### 🚀 DevOps & CI/CD
 <p>
   <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black"/>
@@ -80,7 +83,7 @@
   <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-### 🧰 Tools
+#### 🧰 Tools
 <p>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -91,7 +94,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-### 🏗️ Architecture & Patterns
+#### 🏗️ Architecture & Patterns
 <p>
   <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge"/>
@@ -99,12 +102,44 @@
   <img src="https://img.shields.io/badge/Modularization-9C27B0?style=for-the-badge"/>
 </p>
 
-### 💾 Storage & Security
+#### 💾 Storage & Security
 <p>
   <img src="https://img.shields.io/badge/CoreData-A259FF?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftData-FF6B6B?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UserDefaults-607D8B?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keychain-000000?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
+
+### 🧰 Also Worked With
+> Backend & web tech picked up across side projects.
+
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+#### ☁️ Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+#### 🌐 Web & Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
 
 ---
