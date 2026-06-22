@@ -37,7 +37,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Mobile Engineering Agents](projects/mobile-engineering-agents.md) | Open-source toolkit that turns AI coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini, Aider) into senior mobile engineers — agents, skills, workflows & standards. ⭐ Free to use & fork | Markdown, AI Agents, iOS/Swift, MIT |
+| [Mobile Engineering Agents](https://github.com/sokpichdev/mobile-engineering-agents) | Open-source toolkit that turns AI coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini, Aider) into senior mobile engineers — agents, skills, workflows & standards. ⭐ Free to use & fork | Markdown, AI Agents, iOS/Swift, MIT |
 
 ---
 
