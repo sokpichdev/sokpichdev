@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sok+Pich;iOS+Developer+%26+Mobile+Engineer;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+Flutter;Shipping+apps+to+the+App+Store" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sok+Pich;iOS+Developer+%26+Mobile+Engineer;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Shipping+apps+to+the+App+Store" alt="Typing SVG" />
 </p>
 
 <p align="center">
