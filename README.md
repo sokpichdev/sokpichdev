@@ -1,7 +1,9 @@
+
 <p align="center">
-<!-- GREETING_START -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Good+morning!+I+am+Sok+Pich;Mobile+Engineer;SwiftUI+•+Swift+•+UIKit;Building+Apps+People+Actually+Use" />
-<!-- GREETING_END -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Sok+Pich;Shipping+Production+Apps+to+the+App+Store;Building+AI-Powered+Developer+Tools;Always+Learning+Something+New"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -16,9 +18,10 @@
 
 ## ⚡ Quick Snapshot
 
-- 📱 Mid-level iOS Developer shipping production applications
-- 🤖 Building custom tools and open-source rules to make AI agents actually good at mobile engineering.
-- 🌱 Messing around with **Flutter** for cross-platform apps and writing **FastAPI** backends for my side projects.
+- 📱 Mid-level iOS Developer shipping production applications to the App Store
+- 🏗️ Focused on scalable mobile architecture, performance, and developer experience
+- 🤖 Building open-source tooling and workflows for AI-assisted mobile engineering
+- 🌱 Exploring Flutter, backend systems, and cross-platform application development
 
 ---
 
