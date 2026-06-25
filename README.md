@@ -1,86 +1,59 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Sok+Pich;Mobile+Engineer;Swift+•+SwiftUI+•+Flutter;Building+Apps+People+Actually+Use" />
-</p>
-
-<h3 align="center">
-Mobile Engineer • iOS Specialist • Open Source Builder
-</h3>
-
-<p align="center">
-Building production mobile applications, developer tools, and AI-powered engineering workflows.
+<!-- GREETING_START -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=750&lines=Good+morning!+I+am+Sok+Pich;Mobile+Engineer;SwiftUI+•+Swift+•+UIKit;Building+Apps+People+Actually+Use" />
+<!-- GREETING_END -->
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/PICH16869">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:pichsok016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-flame-eta-etrjgpxb96.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  🚀 <b>Mobile Engineer</b> • 📱 <b>iOS Specialist</b> • 🌐 <b>Open Source Builder</b>
 </p>
 
 <p align="center">
-  🚀 2 Production Apps • 📱 iOS Developer • 🤖 AI Engineering Enthusiast
+  <i>Crafting robust production mobile apps, modular architectures, and AI-driven engineer workflows.</i>
 </p>
 
 ---
 
-## Quick Snapshot
+## ⚡ Quick Snapshot
 
 - 📱 Mid-level iOS Developer shipping production applications
-- 🚀 Published multiple apps to the App Store
-- 🏗️ Strong focus on Clean Architecture & scalable mobile systems
-- 🤖 Building AI-powered developer tooling
-- 🌱 Expanding into Flutter, backend systems, and cross-platform engineering
+- 🤖 Building custom tools and open-source rules to make AI agents actually good at mobile engineering.
+- 🌱 Messing around with **Flutter** for cross-platform apps and writing **FastAPI** backends for my side projects.
 
 ---
 
-<details>
-<summary><h3>💼 Professional Work</h3></summary>
+## 💼 Core Projects
 
-<br>
+<details open>
+<summary><b>📱 Production Apps</b></summary>
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| [Folkara](projects/folkara.md) | HR & WorkFlow Management app on the App Store — attendance, leave requests, multi-step approval workflows, biometric auth & multi-language | SwiftUI, MVVM, Firebase, Fastlane, Push Notifications |
-| [LuckyInfos](projects/infoweb-ios.md) | Sports & lottery information platform on the App Store — real-time live scores, Socket.IO updates, multi-country lottery results & multi-language support | SwiftUI, MVVM, Socket.IO, Firebase, AES Encryption |
+| :--- | :--- | :--- |
+| **[Folkara](projects/folkara.md)** | HR & Workflow Management platform — biometrics, complex multi-step approvals, and live sync. | SwiftUI, MVVM, Firebase, Fastlane, Push Notifications |
+| **[LuckyInfos](projects/infoweb-ios.md)** | Real-time sports & lottery insights platform — low-latency data streams with secure encryption. | SwiftUI, MVVM, Socket.IO, Firebase, AES Encryption |
 
 </details>
 
----
-
 <details>
-<summary><h3>🌐 Open Source</h3></summary>
-
-<br>
+<summary><b>🌐 Open Source Tools</b></summary>
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| [Mobile Engineering Agents](https://github.com/sokpichdev/mobile-engineering-agents) | Open-source toolkit that turns AI coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini, Aider) into senior mobile engineers — agents, skills, workflows & standards. ⭐ Free to use & fork | Markdown, AI Agents, iOS/Swift, MIT |
-| [iOS QA](https://github.com/sokpichdev/ios-qa) | Open-source iOS developer interview-prep site — browse & filter questions, quiz yourself with instant feedback, and track progress. No backend; runs fully in the browser. [Live demo](https://sokpichdev.github.io/ios-qa/) | Next.js, React, TypeScript, Tailwind CSS, MIT |
+| :--- | :--- | :--- |
+| **[Mobile Engineering Agents](https://github.com/sokpichdev/mobile-engineering-agents)** | Custom rules & workflows converting LLM environments (Claude Code, Cursor, Gemini) into senior mobile devs. | AI Agents, Markdown, iOS/Swift |
+| **[iOS QA](https://github.com/sokpichdev/ios-qa)** | Zero-backend developer interview prep toolkit running entirely client-side. | Next.js, React, TypeScript, Tailwind |
 
 </details>
 
----
-
 <details>
-<summary><h3>🚀 Solo Projects</h3></summary>
-
-<br>
+<summary><b>🚀 Personal Labs & Tooling</b></summary>
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| [DevDesign](projects/devdesign.md) | Offline-first iOS toolkit for designers & devs — palettes, typography, spacing & AI palette gen | SwiftUI, SwiftData, CloudKit |
-| [CoffeeCraft](projects/coffeecraft.md) | Production coffee shop app with dual roles, real-time orders, in-app wallet & admin dashboard | SwiftUI, Firebase, MapKit |
-| [Library Backend](projects/library-backend.md) | Library management backend — books, loans, fines, reservations & admin UI | Python, FastAPI, SQLAlchemy, Docker |
-| [APIForge](projects/apiforge.md) | Native multiplatform API client (macOS/iPadOS/iOS) — like Postman, but yours | SwiftUI, Swift Concurrency, URLSession |
-| [MLBB MetaSight](projects/mlbb-stats.md) | MLBB companion — hero stats, rankings, counters, in-game login & match history, with a Metal-powered splash & 16-language support | SwiftUI, async/await, Metal, iOS 16+ |
+| :--- | :--- | :--- |
+| **[DevDesign](projects/devdesign.md)** | Offline-first asset & design utility tailored for engineers. | SwiftUI, SwiftData, CloudKit |
+| **[CoffeeCraft](projects/coffeecraft.md)** | Full-stack commerce playground featuring user/admin roles and geofenced mapping. | SwiftUI, Firebase, MapKit |
+| **[MLBB MetaSight](projects/mlbb-stats.md)** | Low-overhead companion dashboard displaying advanced hero analytical models. | SwiftUI, async/await, Metal |
+| **[APIForge](projects/apiforge.md)** | Native REST client optimized for multiplatform macOS/iOS developer tooling. | SwiftUI, Swift Concurrency |
+| **[Library Backend](projects/library-backend.md)** | Automated library lifecycle management engine. | Python, FastAPI, SQLAlchemy, Docker |
 
 </details>
 
@@ -92,10 +65,6 @@ Building production mobile applications, developer tools, and AI-powered enginee
 
 <details>
 <summary><b>📱 Core — Mobile Engineering</b></summary>
-
-<br>
-
-What I do day in, day out — production iOS apps on the App Store.
 
 | Category | Technologies |
 | :--- | :--- |
@@ -112,10 +81,6 @@ What I do day in, day out — production iOS apps on the App Store.
 <details>
 <summary><b>🧰 Also Worked With</b></summary>
 
-<br>
-
-Backend, web & systems tech picked up across side projects.
-
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img alt="C++" src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C"/> <img alt="C" src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC"/> <img alt="C#" src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=dotnet&logoColor=A179DC"/> |
@@ -127,7 +92,7 @@ Backend, web & systems tech picked up across side projects.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sokpichdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sok Pich's GitHub stats" />
@@ -143,6 +108,15 @@ Backend, web & systems tech picked up across side projects.
 </p>
 
 ---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/PICH16869"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:pichsok016@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-flame-eta-etrjgpxb96.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 <p align="center">
   ☕ <i>"First, solve the problem. Then, write the code. Then, drink more coffee."</i>
