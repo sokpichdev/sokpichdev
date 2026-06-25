@@ -26,7 +26,7 @@
 
 ## 💼 Core Projects
 
-<details open>
+<details>
 <summary><b>📱 Production Apps</b></summary>
 
 | Project | Description | Stack |
