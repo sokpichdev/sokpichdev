@@ -1,54 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sok+Pich;iOS+Developer+%26+Mobile+Engineer;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Shipping+apps+to+the+App+Store" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Sok+Pich;Mobile+Engineer;Swift+•+SwiftUI+•+Flutter;Building+Apps+People+Actually+Use" />
+</p>
+
+<h3 align="center">
+Mobile Engineer • iOS Specialist • Open Source Builder
+</h3>
+
+<p align="center">
+Building production mobile applications, developer tools, and AI-powered engineering workflows.
 </p>
 
 <p align="center">
-  📱 iOS Developer by day · 🦋 Flutter explorer by night.
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/PICH16869">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:pichsok016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-flame-eta-etrjgpxb96.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/PICH16869"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:pichsok016@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-flame-eta-etrjgpxb96.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sokpichdev&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/sokpichdev?tab=followers"><img src="https://img.shields.io/github/followers/sokpichdev?label=Follow&style=flat-square&color=58A6FF&logo=github&logoColor=white" alt="Followers" /></a>
+  🚀 2 Production Apps • 📱 iOS Developer • 🤖 AI Engineering Enthusiast
 </p>
 
 ---
 
-### 🙋 About Me
+## Quick Snapshot
 
-- Shipping iOS apps to the App Store — production code, real users, real constraints
-- Swift & SwiftUI at the core; Flutter when the job calls for it
-- Obsessed with the gap between "it works" and "it feels right"
-- Build end-to-end: clean architecture, backend integrations, CI/CD with Fastlane
-- Full-time engineer. Solo builder on weekends. Coffee non-negotiable.
+- 📱 Mid-level iOS Developer shipping production applications
+- 🚀 Published multiple apps to the App Store
+- 🏗️ Strong focus on Clean Architecture & scalable mobile systems
+- 🤖 Building AI-powered developer tooling
+- 🌱 Expanding into Flutter, backend systems, and cross-platform engineering
 
 ---
 
-### 💼 Professional Work
+<details>
+<summary><h3>💼 Professional Work</h3></summary>
+
+<br>
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Folkara](projects/folkara.md) | HR & WorkFlow Management app on the App Store — attendance, leave requests, multi-step approval workflows, biometric auth & multi-language | SwiftUI, MVVM, Firebase, Fastlane, Push Notifications |
 | [LuckyInfos](projects/infoweb-ios.md) | Sports & lottery information platform on the App Store — real-time live scores, Socket.IO updates, multi-country lottery results & multi-language support | SwiftUI, MVVM, Socket.IO, Firebase, AES Encryption |
 
+</details>
+
 ---
 
-### 🌐 Open Source
+<details>
+<summary><h3>🌐 Open Source</h3></summary>
+
+<br>
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Mobile Engineering Agents](https://github.com/sokpichdev/mobile-engineering-agents) | Open-source toolkit that turns AI coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini, Aider) into senior mobile engineers — agents, skills, workflows & standards. ⭐ Free to use & fork | Markdown, AI Agents, iOS/Swift, MIT |
 | [iOS QA](https://github.com/sokpichdev/ios-qa) | Open-source iOS developer interview-prep site — browse & filter questions, quiz yourself with instant feedback, and track progress. No backend; runs fully in the browser. [Live demo](https://sokpichdev.github.io/ios-qa/) | Next.js, React, TypeScript, Tailwind CSS, MIT |
 
+</details>
+
 ---
 
-### 🚀 Solo Projects
+<details>
+<summary><h3>🚀 Solo Projects</h3></summary>
+
+<br>
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -58,27 +82,39 @@
 | [APIForge](projects/apiforge.md) | Native multiplatform API client (macOS/iPadOS/iOS) — like Postman, but yours | SwiftUI, Swift Concurrency, URLSession |
 | [MLBB MetaSight](projects/mlbb-stats.md) | MLBB companion — hero stats, rankings, counters, in-game login & match history, with a Metal-powered splash & 16-language support | SwiftUI, async/await, Metal, iOS 16+ |
 
+</details>
+
 ---
 
 ## 🛠️ Tech Stack
 
 > *For the most up-to-date stack, visit my [portfolio](https://portfolio-flame-eta-etrjgpxb96.vercel.app/).*
 
-### 📱 Core — Mobile Engineering
+<details>
+<summary><b>📱 Core — Mobile Engineering</b></summary>
+
+<br>
+
 What I do day in, day out — production iOS apps on the App Store.
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img alt="Swift" src="https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=FA7343"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=2EC8FF"/> |
-| **Frameworks &amp; UI** | <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=0A84FF"/> <img alt="UIKit" src="https://img.shields.io/badge/UIKit-0D1117?style=flat-square&logo=apple&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B"/> |
+| **Frameworks & UI** | <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=0A84FF"/> <img alt="UIKit" src="https://img.shields.io/badge/UIKit-0D1117?style=flat-square&logo=apple&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B"/> |
 | **Architecture** | <img alt="MVVM" src="https://img.shields.io/badge/MVVM-0D1117?style=flat-square"/> <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=flat-square"/> <img alt="Repository Pattern" src="https://img.shields.io/badge/Repository%20Pattern-0D1117?style=flat-square"/> |
-| **Data &amp; Security** | <img alt="Core Data" src="https://img.shields.io/badge/Core%20Data-0D1117?style=flat-square&logo=apple&logoColor=white"/> <img alt="SwiftData" src="https://img.shields.io/badge/SwiftData-0D1117?style=flat-square&logo=swift&logoColor=FA7343"/> <img alt="UserDefaults" src="https://img.shields.io/badge/UserDefaults-0D1117?style=flat-square&logo=apple&logoColor=white"/> <img alt="Keychain" src="https://img.shields.io/badge/Keychain-0D1117?style=flat-square&logo=apple&logoColor=white"/> |
-| **Backend &amp; Realtime** | <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28"/> <img alt="REST API" src="https://img.shields.io/badge/REST%20API-0D1117?style=flat-square"/> <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-0D1117?style=flat-square&logo=socketdotio&logoColor=white"/> |
-| **Delivery &amp; CI/CD** | <img alt="Fastlane" src="https://img.shields.io/badge/Fastlane-0D1117?style=flat-square&logo=fastlane&logoColor=00F200"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF"/> <img alt="App Store Connect" src="https://img.shields.io/badge/App%20Store%20Connect-0D1117?style=flat-square&logo=appstore&logoColor=0D96F6"/> <img alt="TestFlight" src="https://img.shields.io/badge/TestFlight-0D1117?style=flat-square&logo=appstore&logoColor=0D96F6"/> |
+| **Data & Security** | <img alt="Core Data" src="https://img.shields.io/badge/Core%20Data-0D1117?style=flat-square&logo=apple&logoColor=white"/> <img alt="SwiftData" src="https://img.shields.io/badge/SwiftData-0D1117?style=flat-square&logo=swift&logoColor=FA7343"/> <img alt="UserDefaults" src="https://img.shields.io/badge/UserDefaults-0D1117?style=flat-square&logo=apple&logoColor=white"/> <img alt="Keychain" src="https://img.shields.io/badge/Keychain-0D1117?style=flat-square&logo=apple&logoColor=white"/> |
+| **Backend & Realtime** | <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28"/> <img alt="REST API" src="https://img.shields.io/badge/REST%20API-0D1117?style=flat-square"/> <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-0D1117?style=flat-square&logo=socketdotio&logoColor=white"/> |
+| **Delivery & CI/CD** | <img alt="Fastlane" src="https://img.shields.io/badge/Fastlane-0D1117?style=flat-square&logo=fastlane&logoColor=00F200"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF"/> <img alt="App Store Connect" src="https://img.shields.io/badge/App%20Store%20Connect-0D1117?style=flat-square&logo=appstore&logoColor=0D96F6"/> <img alt="TestFlight" src="https://img.shields.io/badge/TestFlight-0D1117?style=flat-square&logo=appstore&logoColor=0D96F6"/> |
 | **Tooling** | <img alt="Xcode" src="https://img.shields.io/badge/Xcode-0D1117?style=flat-square&logo=xcode&logoColor=147EFB"/> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=vscodium&logoColor=007ACC"/> <img alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37"/> <img alt="Figma" src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E"/> |
 
-### 🧰 Also Worked With
-Backend, web &amp; systems tech picked up across side projects.
+</details>
+
+<details>
+<summary><b>🧰 Also Worked With</b></summary>
+
+<br>
+
+Backend, web & systems tech picked up across side projects.
 
 | Category | Technologies |
 | :--- | :--- |
@@ -86,6 +122,8 @@ Backend, web &amp; systems tech picked up across side projects.
 | **Backend** | <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688"/> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/> |
 | **Web** | <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white"/> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css&logoColor=1572B6"/> <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=0055FF"/> |
 | **Databases** | <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img alt="Redis" src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438"/> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57"/> |
+
+</details>
 
 ---
 
