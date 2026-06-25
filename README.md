@@ -1,7 +1,6 @@
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Sok+Pich;Shipping+Production+Apps+to+the+App+Store;Building+AI-Powered+Developer+Tools;Always+Learning+Something+New"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=0A84FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Sok+Pich;Shipping+Production+Apps+to+the+App+Store;Building+AI-Powered+Developer+Tools;Always+Learning+Something+New"
     alt="Typing SVG"
   />
 </p>
