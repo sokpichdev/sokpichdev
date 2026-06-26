@@ -120,7 +120,7 @@
   <a href="https://portfolio-flame-eta-etrjgpxb96.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%20Then%2C%20drink%20more%20coffee.&author=Sok%20Pich"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20it%20broken.%20Build%20it%20again.%20Build%20it%20right.&author=Sok%20Pich"/>
 </p>
 
 <p align="center">
