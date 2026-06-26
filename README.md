@@ -120,7 +120,7 @@
   <a href="https://portfolio-flame-eta-etrjgpxb96.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20it%20broken.%0ABuild%20it%20again.%0ABuild%20it%20right.&author=Sok%20Pich"/>
+  <i>"Build it broken. Build it again.Build it right."</i> — Sok Pich
 </p>
 
 <p align="center">
