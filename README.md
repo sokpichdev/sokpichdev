@@ -43,6 +43,7 @@
 | :--- | :--- | :--- |
 | **[Mobile Engineering Agents](https://github.com/sokpichdev/mobile-engineering-agents)** | Custom rules & workflows converting LLM environments (Claude Code, Cursor, Gemini) into senior mobile devs. | AI Agents, Markdown, iOS/Swift |
 | **[iOS QA](https://github.com/sokpichdev/ios-qa)** | Zero-backend developer interview prep toolkit running entirely client-side. | Next.js, React, TypeScript, Tailwind |
+| **[NextOutcome](https://github.com/sokpichdev/NextOutcome)** | Native iOS Polymarket client — live order books, live sports data. | SwiftUI, Swift Charts, SceneKit, Swift Concurrency |
 
 </details>
 
