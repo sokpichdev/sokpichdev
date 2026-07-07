@@ -1,84 +1,43 @@
-# MLBB MetaSight
+<h1 align="center">MLBB MetaSight</h1>
 
-> Mobile Legends: Bang Bang companion app — hero stats, rankings, counters, and a Metal-powered splash screen
+<p align="center">
+  <strong>Mobile Legends: Bang Bang companion app — hero stats, rankings, counters, and a Metal-powered splash screen</strong><br/>
+  <sub>Gold-on-navy themed UI, offline caching, in-game account login, and full localization across 16 languages served at runtime.</sub>
+</p>
 
-## Overview
+<p align="center">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-iOS%2017%2B-blue"/>
+  <img alt="Language" src="https://img.shields.io/badge/Swift-5.9-orange"/>
+  <img alt="UI" src="https://img.shields.io/badge/UI-SwiftUI-green"/>
+  <img alt="Status" src="https://img.shields.io/badge/status-in%20development-yellow"/>
+</p>
 
-MLBB MetaSight is a SwiftUI iOS app for browsing Mobile Legends: Bang Bang hero data — stats, rankings, lane positions, skill combos, counter matchups, and more. It features a gold-on-navy themed UI, a Metal-powered animated splash screen, offline caching, in-game user login with match history, and full localization across 16 languages served at runtime.
+---
 
-## Features
+## Table of Contents
 
-### Hero Data
-- **Hero list** — full roster with avatar/minimap icons and infinite-scroll pagination
-- **Rankings** — win, appearance, and ban rates filterable by rank tier with sorting
-- **Positions** — filter by lane and class with flip-card presentation
-- **Hero detail** — 7 tabs: Overview (splash art, lore, skills with video previews), Stats, Skill Combos, Trends, Counters, Relations, and Compatibility
-- **Academy** — equipment, battle spells, and emblem sets
-- **Search** — cross-module hero search
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Demo](#demo)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Folder Structure](#folder-structure)
+- [Getting Started](#getting-started)
+- [Testing](#testing)
+- [CI/CD](#cicd)
+- [Privacy & Permissions](#privacy--permissions)
+- [Accessibility](#accessibility)
+- [Localization](#localization)
+- [Project Status](#project-status)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Security](#security)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Credits](#credits)
+- [Author](#author)
 
-### User & Social
-- **MLBB in-game login** — Role ID + Zone ID + verification code → JWT
-- **Profile drawer** — slide-out drawer with stats, win-rate ring, and edge-swipe gesture
-- **Match history** — paginated list with season filter and per-match scoreboard
-- **Frequent heroes** and **friends list** with season pickers
-- **Favorite heroes** stored locally
-- **Privacy settings** to toggle profile visibility
-
-### Platform
-- **16-language localization** (EN, KM, ZH, ZH-TW, TH, ID, VI, MS, PT, ES, AR, TR, KO, JA, RU, DE) loaded at runtime
-- **Offline cache** — file-based JSON caching with staleness indicators and network-aware refresh
-- **Metal splash** — animated launch with particle spiral and ring flare, with a SwiftUI fallback for Reduce Motion / non-Metal devices
-
-## Tech Stack
-
-| Area | Technology |
-|------|-----------|
-| UI | SwiftUI |
-| Architecture | MVVM (View / ViewModel / Model per module) |
-| Min iOS | 16+ |
-| Networking | `async/await` + `URLSession` via `NetworkService` |
-| Endpoints | Typed `MLBBResource` enums conforming to `MLBBEndpoint` |
-| Caching | File-based JSON via `CacheService` (per-view, per-filter) |
-| Connectivity | `NWPathMonitor` via a `NetworkMonitor` singleton |
-| Graphics | Metal shaders for the launch splash |
-| Auth | JWT stored in `KeychainService` |
-| Localization | Runtime translations via `LocalizationManager` |
-| Typography | Cinzel display font (OFL) |
-
-## Architecture
-
-The app follows MVVM with a clear separation between networking, services, theming, reusable components, and feature modules. Data is fetched with `async/await` through a typed endpoint layer (`MLBBResource`), wrapped by `NetworkService`, and cached per-view/per-filter by `CacheService` so the app stays usable offline. A `NetworkMonitor` singleton drives network-aware refresh and staleness indicators.
-
-Theming is centralized in a `Theme/` layer (color, font, spacing, radius tokens) and consumed by reusable themed primitives like `PanelCard`, `BannerHeader`, and `GoldDivider`.
-
-## File Structure
-
-```
-MLBB MetaSight/
-├── Constant/         # API base URL and URL builders
-├── Networking/       # Typed endpoints (MLBBResource), response envelopes, pagination
-├── Services/         # High-level fetch methods (APIService)
-├── Utilize/          # NetworkService, CacheService, NetworkMonitor, logging
-├── Launch/           # Metal splash (MTKView + Shaders/Splash.metal) + SwiftUI fallback
-├── Theme/            # Color/font/spacing/radius tokens, Cinzel fonts
-├── Customization/    # Reusable themed primitives + UI components (shimmer, toast, FlipView)
-└── Module/
-    ├── Home/         # Hero list with pagination
-    ├── Ranking/      # Rankings by tier with filters
-    ├── Position/     # Heroes by lane/class (flip cards)
-    ├── Academy/      # Equipment, spells, emblems
-    ├── Detail/       # 7-tab hero detail
-    ├── Search/       # Cross-module hero search
-    └── User/         # Auth, profile, match history, friends (Model/View/ViewModel)
-```
-
-## Highlights
-
-- **Metal-rendered splash** with particle spiral and ring flare — GPU graphics beyond standard SwiftUI animation, with an accessibility-aware fallback
-- **Offline-first caching** keeps the app usable without a connection and surfaces data staleness
-- **16-language runtime localization** loaded remotely, with a centralized key registry
-- **Full MLBB account integration** — in-game verification login, match history, and friends
-- Clean, token-driven theming system reused across every feature module
+---
 
 ## Screenshots
 
@@ -140,10 +99,273 @@ MLBB MetaSight/
   <img src="assets/mlbb-stats/fliter_sheet.png" width="160"/>
 </p>
 
+---
+
+## Features
+
+### Hero Data
+- **Hero list** — full roster with avatar/minimap icons and infinite-scroll pagination
+- **Rankings** — win, appearance, and ban rates filterable by rank tier with sorting
+- **Positions** — filter by lane and class with flip-card presentation
+- **Hero detail** — 7 tabs: Overview (splash art, lore, skills with video previews), Stats, Skill Combos, Trends, Counters, Relations, and Compatibility
+- **Academy** — equipment, battle spells, and emblem sets
+- **Search** — cross-module hero search
+
+### User & Social
+- **MLBB in-game login** — Role ID + Zone ID + verification code → JWT
+- **Profile drawer** — slide-out drawer with stats, win-rate ring, and edge-swipe gesture
+- **Match history** — paginated list with season filter and per-match scoreboard
+- **Frequent heroes** and **friends list** with season pickers
+- **Favorite heroes** stored locally
+- **Privacy settings** to toggle profile visibility
+
+### Platform
+- **16-language localization** (EN, KM, ZH, ZH-TW, TH, ID, VI, MS, PT, ES, AR, TR, KO, JA, RU, DE) loaded at runtime
+- **Offline cache** — file-based JSON caching with staleness indicators and network-aware refresh
+- **Metal splash** — animated launch with particle spiral and ring flare, with a SwiftUI fallback for Reduce Motion / non-Metal devices
+
+---
+
+## Demo
+
+<!-- No standalone demo GIF file exists yet — the animated Hero Detail tabs (Overview, Stats, Counters, Skill Combos) above are already captured as GIFs in Screenshots. -->
+
+The Metal-rendered splash screen (particle spiral + ring flare) and the Hero Detail tabs are the two most visually distinctive flows — see the GIFs under [Screenshots → Hero Detail](#screenshots).
+
+---
+
+## Tech Stack
+
+| Layer | Choice |
+|---|---|
+| **Language** | Swift 5.9 |
+| **UI** | SwiftUI |
+| **Architecture** | MVVM (`Module/` — View / ViewModel / Model per feature) |
+| **Concurrency** | Swift Concurrency (`async`/`await`) |
+| **Networking** | `URLSession` via `NetworkService`, typed `MLBBResource`/`MLBBEndpoint` |
+| **Realtime** | Firestore (remote config for the Top Up promo only) |
+| **Persistence** | File-based JSON cache (`CacheService`), Keychain (`KeychainService`) |
+| **Backend / BaaS** | Custom API (`mlbb.rone.dev`) + Firebase (Analytics, Firestore for Top Up config) |
+| **Dependencies** | Swift Package Manager |
+| **Analytics** | Firebase Analytics (Measurement Protocol, optional) |
+| **Graphics** | Metal shaders for the launch splash |
+| **Auth** | JWT via `KeychainService`; MLBB in-game verification flow |
+| **Typography** | Cinzel display font (OFL licensed) |
+| **Min iOS** | 17+ |
+
+---
+
+## Architecture
+
+MVVM per feature module, with a shared services layer (networking, caching, auth) that every module's ViewModel depends on. The `TopUp` module is the one exception — it talks to Firestore directly for its remote promo config rather than going through the API service layer.
+
+```mermaid
+graph TD
+    Views["Module Views (Home / Ranking / Detail / User / TopUp / ...)"] --> ViewModels["ViewModels"]
+    ViewModels --> APIService["APIService"]
+    APIService --> NetworkService["NetworkService (URLSession)"]
+    APIService --> CacheService["CacheService (File-based JSON)"]
+    ViewModels --> KeychainService["KeychainService (JWT/Auth)"]
+    NetworkService --> API["mlbb.rone.dev"]
+    ViewModels --> Firestore["Firestore (Top Up promo config)"]
+```
+
+**Key decisions**
+- Each feature module under `Module/` owns its own View / ViewModel / Model — no shared cross-feature state beyond the services layer.
+- All async work goes through Swift Concurrency (`async`/`await`); no Combine.
+- The `TopUp` module bypasses `APIService`/`NetworkService` and reads its config straight from Firestore, since the promo is unrelated to hero data and needs to be toggled without an App Store release.
+
+---
+
+## Folder Structure
+
+```
+MLBB MetaSight/
+├── Constant/
+│   └── APIConstants.swift          # Base URL and URL builders
+├── Networking/
+│   ├── APIResource.swift           # Typed endpoint definitions (MLBBResource)
+│   ├── APIResponse.swift           # Response envelope types
+│   └── PageQuery.swift             # Pagination query builder
+├── Services/
+│   └── APIService.swift            # High-level fetch methods
+├── Utilize/
+│   ├── NetworkService.swift        # URLSession wrapper
+│   ├── CacheService.swift          # File-based JSON cache
+│   ├── NetworkMonitor.swift        # NWPathMonitor connectivity
+│   ├── DebugURLProtocol.swift      # Request logging (debug builds)
+│   └── LogWriter.swift
+├── Launch/
+│   ├── LaunchScreen.storyboard     # Static themed launch screen
+│   ├── SplashGate.swift            # Gate between splash and app
+│   ├── SwiftUISplashView.swift     # Fallback splash (radial glow + fade)
+│   ├── MetalSplashView.swift       # MTKView-backed animated splash
+│   ├── SplashRenderer.swift        # Metal renderer (particles + ring flare)
+│   └── Shaders/Splash.metal        # Metal shader
+├── Theme/
+│   ├── MLBBColor.swift             # Color tokens (gold, navy, panel)
+│   ├── MLBBFont.swift              # Typography (Cinzel + system)
+│   ├── MLBBSpacing.swift           # Spacing scale
+│   ├── MLBBRadius.swift            # Corner radius tokens
+│   ├── ThemeAppearance.swift       # UIKit appearance configuration
+│   └── Fonts/                      # Cinzel-Regular.ttf, Cinzel-Bold.ttf
+├── Customization/
+│   ├── Theme/                      # Reusable themed primitives
+│   │   ├── PanelCard.swift         # Gradient panel with gold hairline
+│   │   ├── BannerHeader.swift      # Cinzel uppercase section header
+│   │   ├── GoldDivider.swift       # 1pt gradient divider
+│   │   ├── ThemedButtonStyle.swift # Primary/secondary button styles
+│   │   └── RankTier.swift          # Tier-to-color mapping
+│   ├── API_UI_Components/          # Shimmer, toast, staleness indicator
+│   ├── FlipView.swift
+│   ├── FlowLayout.swift
+│   ├── HTMLWebView.swift
+│   └── ...
+└── Module/
+    ├── Home/                       # Hero list with pagination
+    ├── Ranking/                    # Rankings by tier with filters
+    ├── Position/                   # Heroes by lane/class (flip cards)
+    ├── Academy/                    # Equipment, spells, emblems
+    ├── Detail/                     # 7-tab hero detail
+    │   └── View/Tabs/             # Overview, Stats, SkillCombos, Trends,
+    │                               # Counters, Relations, Compatibility
+    ├── Search/                     # Cross-module hero search
+    ├── Favorites/                  # Locally stored favorite heroes
+    ├── TopUp/                      # Diamond top-up affiliate promotion
+    └── User/                       # Auth, profile, match history, friends
+        ├── Model/                  # DTOs: auth, info, stats, matches, friends
+        ├── View/                   # LoginView, ProfileView, MatchHistoryView,
+        │                           # FrequentHeroesView, FriendsView, PrivacySettingsView
+        └── ViewModel/               # AuthViewModel, ProfileViewModel, UserSettingsViewModel
+```
+
+> **Note:** the repo root also contains a legacy `MLBB Hero Insight.xcodeproj`. It is a stale artifact from before the project was renamed and is not the active project — always open `MLBB MetaSight.xcodeproj`.
+
+---
+
+## Getting Started
+
+### Requirements
+- macOS with Xcode 15+
+- Target: iOS 17+
+- No API key required for hero/academy/user data
+
+### Clone
+```bash
+git clone https://github.com/sokpichdev/mlbb-stats.git
+cd mlbb-stats
+```
+
+### Configuration
+
+Hero, academy, and user data need no configuration — they're fetched from the public API at `https://mlbb.rone.dev`.
+
+The **Top Up** feature reads its promo config from Firestore and reports to Firebase Analytics, which need real Firebase credentials:
+```bash
+cp Secrets.xcconfig.example Secrets.xcconfig
+```
+
+| Key | Purpose | Required |
+|---|---|---|
+| `FIREBASE_APP_ID` | Firebase app identifier (Top Up / Analytics) | ⚪ only for Top Up |
+| `FIREBASE_API_SECRET` | Measurement Protocol API secret (Top Up / Analytics) | ⚪ only for Top Up |
+
+### Install dependencies / Run
+Open `MLBB MetaSight.xcodeproj` in Xcode 15+ (Swift Package Manager dependencies resolve automatically), select a simulator or device running iOS 17+, and run.
+
+> Ignore `MLBB Hero Insight.xcodeproj` at the repo root — it's a legacy project file left over from before the app was renamed.
+
+---
+
+## Testing
+
+```bash
+xcodebuild test -scheme "MLBB MetaSight" -destination 'platform=iOS Simulator,name=iPhone 15'
+```
+
+- **Unit tests** (`MLBB MetaSightTests/`): `APIResource`, `APIResponse`, `AppLanguage`, `AuthViewModel`, `CacheService`, `DrawerSnapDecision`, `HeroModel`, `HomeViewModel`, `KeychainService`, `LocalizationManager`, `NetworkService`, `PageQuery`, `SearchViewModel`, `TopUpConfig`, `TopUpService`, `TopUpViewModel`
+- **UI tests** (`MLBB MetaSightUITests/`): Home, Search, and general app flows
+- **Coverage target:** none set yet — TODO
+- **Test doubles:** ad hoc per test; no shared mocking framework in place — TODO
+
+---
+
+## CI/CD
+
+No CI/CD is configured yet — there's no `.github/workflows/` and no `fastlane/` setup. Tests currently run locally via Xcode/`xcodebuild` only. — **TODO**
+
+---
+
+## Privacy & Permissions
+
+- No OS-level permissions (camera, location, notifications, etc.) are currently requested by the app.
+- **Data collected:** none beyond optional Firebase Analytics events for the Top Up promotion (Measurement Protocol). No PII is sold or shared.
+- **Third parties:** Firebase (Analytics, Firestore — Top Up feature only), the public hero/user API at `mlbb.rone.dev`.
+- **Full policy:** no standalone privacy policy document exists yet — **TODO**
+
+---
+
+## Accessibility
+
+Accessibility has not been formally audited yet — VoiceOver labeling, Dynamic Type scaling, contrast ratios, and Reduce Motion support beyond the splash-screen fallback are best-effort, not verified. — **TODO**
+
+---
+
+## Localization
+
+Supported languages: English, Chinese (Simplified & Traditional), Thai, Indonesian, Vietnamese, Malay, Portuguese, Spanish, Arabic, Turkish, Korean, Japanese, Russian, German, Khmer (16 total).
+
+Strings are served at runtime from GitHub Pages and loaded by `LocalizationManager`, resolved via the `LocalizeKey` registry and `L10n` (see [Folder Structure](#folder-structure)).
+
+---
+
+## Project Status
+
+🚧 In active development — hero browsing, rankings, positions, detail tabs, academy, search, favorites, diamond top-up promotion, and full user auth/profile/match-history flows are implemented; ongoing polish and API coverage.
+
+---
+
+## Roadmap
+
+- [ ] Item builds and full equipment simulation
+- [ ] Widget / Live Activity support
+- [ ] watchOS companion
+
+---
+
+## Contributing
+
+No `CONTRIBUTING.md` exists yet — **TODO**. In the meantime:
+1. Fork and create a feature branch (`git checkout -b feat/thing`)
+2. Commit using [Conventional Commits](https://www.conventionalcommits.org/)
+3. Open a PR against `main`
+
+---
+
+## Security
+
+No standalone `SECURITY.md` exists yet — **TODO**. Current security documentation lives in the repo at [`SECURITY_REVIEW.md`](https://github.com/sokpichdev/mlbb-stats/blob/main/SECURITY_REVIEW.md) and [`SECURITY_REMEDIATION_PLAN.md`](https://github.com/sokpichdev/mlbb-stats/blob/main/SECURITY_REMEDIATION_PLAN.md).
+
+---
+
+## License
+
+This project is for personal / educational use. MLBB game assets (hero names, images, skills) are property of Moonton. No standalone `LICENSE` file exists yet.
+
+---
+
+## Acknowledgments
+
+- **Cinzel** display font — [SIL Open Font License](https://openfontlicense.org/)
+
+---
+
 ## Credits
 
 Hero data provided by the open-source [ridwaanhall/api-mobilelegends](https://github.com/ridwaanhall/api-mobilelegends). MLBB game assets are property of Moonton.
 
-## Links
+---
 
-- [GitHub](https://github.com/cobra-PICH/mlbb-stats)
+## Author
+
+**Sok Pich** — [@sokpichdev](https://github.com/sokpichdev)
