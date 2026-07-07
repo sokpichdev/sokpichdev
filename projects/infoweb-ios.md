@@ -1,10 +1,51 @@
-# LuckyInfos
+<h1 align="center">LuckyInfos</h1>
 
-> Sports & Lottery information platform with real-time live scores — available on the App Store
+<p align="center">
+  <strong>Sports & Lottery information platform — real-time live scores and results across multiple countries</strong><br/>
+  <sub>Shipped to the App Store, with Socket.IO live match streaming and AES-encrypted API traffic.</sub>
+</p>
 
-## Overview
+<p align="center">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-iOS-blue"/>
+  <img alt="Language" src="https://img.shields.io/badge/Swift-5-orange"/>
+  <img alt="UI" src="https://img.shields.io/badge/UI-SwiftUI-green"/>
+  <img alt="Status" src="https://img.shields.io/badge/status-shipped-brightgreen"/>
+</p>
 
-LuckyInfos is a production iOS app serving sports fans and lottery enthusiasts across multiple countries. Users can follow live match scores, browse league standings, track lottery results, generate predictions, and bookmark their favorite events — all with real-time WebSocket updates and full multi-language support.
+<p align="center">
+  <a href="https://apps.apple.com/kh/app/luckyinfos/id6477772364">📱 App Store</a>
+</p>
+
+---
+
+## Table of Contents
+
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Folder Structure](#folder-structure)
+- [Try It](#try-it)
+- [Testing](#testing)
+- [CI/CD](#cicd)
+- [Privacy & Permissions](#privacy--permissions)
+- [Accessibility](#accessibility)
+- [Project Status](#project-status)
+- [Author](#author)
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/luckyinfo/sports.png" width="160"/>
+  <img src="assets/luckyinfo/football_match_stats.png" width="160"/>
+  <img src="assets/luckyinfo/news.png" width="160"/>
+  <img src="assets/luckyinfo/filter.png" width="160"/>
+  <img src="assets/luckyinfo/language_selection.png" width="160"/>
+</p>
+
+---
 
 ## Features
 
@@ -21,7 +62,7 @@ LuckyInfos is a production iOS app serving sports fans and lottery enthusiasts a
 - Community player predictions
 
 ### News Feed
-- Integrated news feed via a custom internal library
+- Integrated news feed via a custom internal library (NewsFeedKit)
 
 ### Search & Discovery
 - Global search across sports and lottery data
@@ -40,21 +81,27 @@ LuckyInfos is a production iOS app serving sports fans and lottery enthusiasts a
 - Offline detection with a no-connection overlay and request retry on reconnect
 - Footer advertisements on the main tab bar
 
+---
+
 ## Tech Stack
 
-| Area | Technology |
-|------|-----------|
-| UI | SwiftUI (primary) with UIKit interop |
-| Architecture | MVVM (Model / View / ViewModel) |
-| Real-time | Socket.IO (live match scores) |
-| Backend services | Firebase (Analytics, Cloud Messaging / FCM) |
-| Networking | URLSession-based REST layer with AES encryption |
-| Images | SDWebImageSwiftUI (50 MB memory + 200 MB disk cache) |
-| Keyboard | IQKeyboardManager |
-| Internal library | NewsFeedKit-iOS (proprietary Loma Technology package) |
-| Connectivity | Custom NetworkMonitor / Reachability |
-| Linting | SwiftLint |
-| Dependency mgmt | Swift Package Manager |
+| Layer | Choice |
+|---|---|
+| **Language** | Swift 5 |
+| **UI** | SwiftUI (primary) with UIKit interop |
+| **Architecture** | MVVM (Model / View / ViewModel) |
+| **Networking** | URLSession-based `RestAPI` singleton, AES-encrypted request payloads |
+| **Realtime** | Socket.IO (`PusherSocketInfoWeb`) for live match scores |
+| **Backend / BaaS** | Firebase (Analytics, Cloud Messaging) |
+| **Images** | SDWebImageSwiftUI (50 MB memory + 200 MB disk cache) |
+| **Keyboard** | IQKeyboardManager |
+| **Internal library** | NewsFeedKit-iOS (proprietary Loma Technology package) |
+| **Connectivity** | Custom NetworkMonitor / Reachability |
+| **Linting** | SwiftLint |
+| **Dependencies** | Swift Package Manager |
+| **Environments** | Dev, SIT, UAT, Production (distinct API gateways + compile flags) |
+
+---
 
 ## Architecture
 
@@ -78,9 +125,24 @@ otherwise    → Main tab bar (Sports · Lottery · News · Favourites · Profil
 | Favourites tab | | ✅ |
 | Profile & account settings | | ✅ |
 
-Global singletons (`NavManager`, `NavigationState`, `UserPreference`) coordinate navigation and persistent preferences. A pending-request queue retries calls automatically when connectivity is restored.
+```mermaid
+graph TD
+    Views["Module Views (Sports / Lottery / News / Profile)"] --> ViewModels["ViewModels"]
+    ViewModels --> RestAPI["RestAPI (URLSession, AES-encrypted)"]
+    ViewModels --> Socket["PusherSocketInfoWeb (Socket.IO)"]
+    RestAPI --> API["InfoWeb API Gateway (Dev/SIT/UAT/Prod)"]
+    Socket --> API
+    ViewModels --> Firebase["Firebase (Analytics, FCM)"]
+```
 
-## File Structure
+**Key decisions**
+- Global singletons (`NavManager`, `NavigationState`, `UserPreference`) coordinate navigation and persistent preferences across modules.
+- A pending-request queue retries calls automatically when connectivity is restored, so a dropped connection doesn't lose in-flight actions.
+- Sensitive registration data is AES-encrypted client-side before it goes over the wire, on top of TLS.
+
+---
+
+## Folder Structure
 
 ```
 InfoWebiOS/
@@ -110,26 +172,51 @@ InfoWebiOS/
 └── Resources/         # Assets, Fonts, Firebase config, bridging header
 ```
 
-## Highlights
+---
 
-- Shipped to the App Store and used by real sports fans and lottery followers across multiple countries
-- Production codebase developed and maintained by a multi-engineer team at Loma Technology Cambodia
-- Real-time live match scores via Socket.IO WebSocket streaming
-- Multi-environment build configs — Dev, SIT, UAT, and Production
-- AES-128/256 encryption on API communication
-- Pending-request retry queue that fires automatically on network recovery
-- Drag-and-drop lottery filter preferences persisted across sessions
-- 13 feature modules, 15+ ViewModels, 200+ Swift files
+## Try It
 
-## Screenshots
+LuckyInfos is shipped and live on the App Store — the fastest way to see it is to install it, not build it locally (it's proprietary, closed-source software built at Loma Technology, so the source isn't public anyway).
 
 <p align="center">
-  <img src="assets/luckyinfo/sports.png" width="160"/>
-  <img src="assets/luckyinfo/football_match_stats.png" width="160"/>
-  <img src="assets/luckyinfo/news.png" width="160"/>
-  <img src="assets/luckyinfo/filter.png" width="160"/>
-  <img src="assets/luckyinfo/language_selection.png" width="160"/>
+  <a href="https://apps.apple.com/kh/app/luckyinfos/id6477772364">📱 Get it on the App Store</a>
 </p>
-## Links
 
-- [App Store](https://apps.apple.com/kh/app/luckyinfos/id6477772364)
+---
+
+## Testing
+
+No test coverage information was available to verify — **TODO**.
+
+---
+
+## CI/CD
+
+No CI/CD configuration was found in the archive available for review — **TODO**.
+
+---
+
+## Privacy & Permissions
+
+- **Data collected:** account/registration data is AES-encrypted client-side before transmission; specifics of server-side retention are not published — **TODO**.
+- **Third parties:** Firebase (Analytics, Cloud Messaging).
+- **Full policy:** not published — **TODO**.
+
+---
+
+## Accessibility
+
+Not formally audited — **TODO**.
+
+---
+
+## Project Status
+
+✅ Shipped to the App Store and used by real sports fans and lottery followers across multiple countries — a production codebase developed and maintained by a multi-engineer team at Loma Technology Cambodia (13 feature modules, 15+ ViewModels, 200+ Swift files).
+
+---
+
+## Author
+
+**Sok Pich** — [@sokpichdev](https://github.com/sokpichdev)
+<sub>Contributed as part of a multi-engineer team at Loma Technology (Cambodia); not the sole author of this codebase.</sub>
