@@ -26,7 +26,7 @@
 
 ## Core Projects
 
-<details>
+<details open>
 <summary><b>Production Apps</b></summary>
 
 | Project | Description | Stack |
@@ -36,7 +36,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Open Source Tools</b></summary>
 
 | Project | Description | Stack |
@@ -46,7 +46,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Personal Labs & Tooling</b></summary>
 
 | Project | Description | Stack |
@@ -64,9 +64,9 @@
 
 ## Tech Stack
 
-> *For the most up-to-date stack, visit my [portfolio](https://portfolio-flame-eta-etrjgpxb96.vercel.app/).*
+> *Visit my [portfolio](https://portfolio-flame-eta-etrjgpxb96.vercel.app/).*
 
-<details>
+<details open>
 <summary><b>Core — Mobile Engineering</b></summary>
 
 | Category | Technologies |
@@ -81,7 +81,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Also Worked With</b></summary>
 
 | Category | Technologies |
