@@ -192,4 +192,4 @@ DevDesign/
 
 ## Links
 
-- [GitHub](https://github.com/cobra-PICH/DevDesign)
+- [GitHub](https://github.com/sokpichdev/DevDesign)
