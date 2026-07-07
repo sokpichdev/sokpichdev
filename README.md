@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🚀 <b>Mobile Engineer</b> • 📱 <b>iOS Specialist</b> • 🌐 <b>Open Source Builder</b>
+  <b>Mobile Engineer</b> •  <b>iOS Specialist</b> •  <b>Open Source Builder</b>
 </p>
 
 <p align="center">
@@ -15,19 +15,19 @@
 
 ---
 
-## ⚡ Quick Snapshot
+## Quick Snapshot
 
-- 📱 Mid-level iOS Developer shipping production applications to the App Store
-- 🏗️ Focused on scalable mobile architecture, performance, and developer experience
-- 🤖 Building open-source tooling and workflows for AI-assisted mobile engineering
-- 🌱 Exploring Flutter, backend systems, and cross-platform application development
+- Mid-level iOS Developer shipping production applications to the App Store
+- Focused on scalable mobile architecture, performance, and developer experience
+- Building open-source tooling and workflows for AI-assisted mobile engineering
+- Exploring Flutter, backend systems, and cross-platform application development
 
 ---
 
-## 💼 Core Projects
+## Core Projects
 
 <details>
-<summary><b>📱 Production Apps</b></summary>
+<summary><b>Production Apps</b></summary>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><b>🌐 Open Source Tools</b></summary>
+<summary><b>Open Source Tools</b></summary>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary><b>🚀 Personal Labs & Tooling</b></summary>
+<summary><b>Personal Labs & Tooling</b></summary>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -62,12 +62,12 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 > *For the most up-to-date stack, visit my [portfolio](https://portfolio-flame-eta-etrjgpxb96.vercel.app/).*
 
 <details>
-<summary><b>📱 Core — Mobile Engineering</b></summary>
+<summary><b>Core — Mobile Engineering</b></summary>
 
 | Category | Technologies |
 | :--- | :--- |
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-<summary><b>🧰 Also Worked With</b></summary>
+<summary><b>Also Worked With</b></summary>
 
 | Category | Technologies |
 | :--- | :--- |
@@ -95,7 +95,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=sokpichdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sok Pich's GitHub stats" />
@@ -112,7 +112,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sok-pich"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
