@@ -43,7 +43,6 @@
 | :--- | :--- | :--- |
 | **[Mobile Engineering Agents](https://github.com/sokpichdev/mobile-engineering-agents)** | Custom rules & workflows converting LLM environments (Claude Code, Cursor, Gemini) into senior mobile devs. | AI Agents, Markdown, iOS/Swift |
 | **[iOS QA](https://github.com/sokpichdev/ios-qa)** | Zero-backend developer interview prep toolkit running entirely client-side. | Next.js, React, TypeScript, Tailwind |
-| **[NextOutcome](https://github.com/sokpichdev/NextOutcome)** | Native iOS Polymarket client — live order books, live sports data. | SwiftUI, Swift Charts, SceneKit, Swift Concurrency |
 
 </details>
 
@@ -52,6 +51,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[NextOutcome](https://github.com/sokpichdev/NextOutcome)** | Native iOS Polymarket client — live order books, live sports data, and a 3D World Cup globe. | SwiftUI, Swift Charts, SceneKit, Swift Concurrency |
 | **[DevDesign](projects/devdesign.md)** | Offline-first asset & design utility tailored for engineers. | SwiftUI, SwiftData, CloudKit |
 | **[CoffeeCraft](projects/coffeecraft.md)** | Full-stack commerce playground featuring user/admin roles and geofenced mapping. | SwiftUI, Firebase, MapKit |
 | **[MLBB MetaSight](projects/mlbb-stats.md)** | Low-overhead companion dashboard displaying advanced hero analytical models. | SwiftUI, async/await, Metal |
