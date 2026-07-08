@@ -239,7 +239,7 @@ LMS-iOS/
 
 ## Try It
 
-Folkara is shipped and live on the App Store — the fastest way to see it is to install it, not build it locally (it's proprietary, closed-source software built for Loma Technology, so the source isn't public anyway).
+Folkara is shipped and live on the App Store — the fastest way to see it is to install it, not build it locally.
 
 <p align="center">
   <a href="https://apps.apple.com/kh/app/folkara/id6745320437">📱 Get it on the App Store</a>
