@@ -50,31 +50,56 @@
 
 **Heroes**
 
-| Hero List | Heroes Flow | Hero Rankings | Hero Positions | Hero Search | Hero Favorite |
-|---|---|---|---|---|---|
-| <img src="assets/mlbb-stats/heroes_list.png" width="160"/> | <img src="assets/mlbb-stats/heroes_flow.png" width="160"/> | <img src="assets/mlbb-stats/hero_rankings.png" width="160"/> | <img src="assets/mlbb-stats/hero_positions.png" width="160"/> | <img src="assets/mlbb-stats/hero_search.png" width="160"/> | <img src="assets/mlbb-stats/hero_favorite.png" width="160"/> |
-| Full hero roster with avatar icons and infinite-scroll pagination | Navigation flow between hero list and detail views | Win rates, pick rates, and ban rates filterable by rank tier | Heroes filtered by lane and role with flip-card presentation | Cross-module hero search | Locally stored favorite heroes |
+| Hero List | Heroes Flow | Hero Rankings |
+|---|---|---|
+| <img src="assets/mlbb-stats/heroes_list.png" width="160"/> | <img src="assets/mlbb-stats/heroes_flow.png" width="160"/> | <img src="assets/mlbb-stats/hero_rankings.png" width="160"/> |
+| Full hero roster with avatar icons and infinite-scroll pagination | Navigation flow between hero list and detail views | Win rates, pick rates, and ban rates filterable by rank tier |
+
+| Hero Positions | Hero Search | Hero Favorite |
+|---|---|---|
+| <img src="assets/mlbb-stats/hero_positions.png" width="160"/> | <img src="assets/mlbb-stats/hero_search.png" width="160"/> | <img src="assets/mlbb-stats/hero_favorite.png" width="160"/> |
+| Heroes filtered by lane and role with flip-card presentation | Cross-module hero search | Locally stored favorite heroes |
 
 **Academy**
 
-| Ranks | Recommended | Battle Spells | Emblems |
-|---|---|---|---|
-| <img src="assets/mlbb-stats/academy_ranks.png" width="160"/> | <img src="assets/mlbb-stats/academy_recommended.png" width="160"/> | <img src="assets/mlbb-stats/academy_spells.png" width="160"/> | <img src="assets/mlbb-stats/academy_emblems.png" width="160"/> |
-| Rank-tier breakdown and progression guidance | Recommended equipment builds | Battle spell reference | Emblem set reference |
+| Ranks | Recommended | Battle Spells |
+|---|---|---|
+| <img src="assets/mlbb-stats/academy_ranks.png" width="160"/> | <img src="assets/mlbb-stats/academy_recommended.png" width="160"/> | <img src="assets/mlbb-stats/academy_spells.png" width="160"/> |
+| Rank-tier breakdown and progression guidance | Recommended equipment builds | Battle spell reference |
+
+| Emblems |
+|---|
+| <img src="assets/mlbb-stats/academy_emblems.png" width="160"/> |
+| Emblem set reference |
 
 **User Profile**
 
-| Side Menu (Guest) | Side Menu (User) | User Stats | Frequent Heroes | Friends | Match History | Match History Filter |
-|---|---|---|---|---|---|---|
-| <img src="assets/mlbb-stats/side_menu_guest.png" width="160"/> | <img src="assets/mlbb-stats/side_menu_user.png" width="160"/> | <img src="assets/mlbb-stats/user_stats.png" width="160"/> | <img src="assets/mlbb-stats/frequent_heroes.png" width="160"/> | <img src="assets/mlbb-stats/friends.png" width="160"/> | <img src="assets/mlbb-stats/matches_history.png" width="160"/> | <img src="assets/mlbb-stats/matches_history_filter.png" width="160"/> |
-| Slide-out drawer before login | Slide-out drawer with stats and win-rate ring after login | Win-rate ring and season-filtered account stats | Most-played heroes with season picker | Friends list with season picker | Paginated match history with per-match scoreboard | Season filter for match history |
+| Side Menu (Guest) | Side Menu (User) | User Stats |
+|---|---|---|
+| <img src="assets/mlbb-stats/side_menu_guest.png" width="160"/> | <img src="assets/mlbb-stats/side_menu_user.png" width="160"/> | <img src="assets/mlbb-stats/user_stats.png" width="160"/> |
+| Slide-out drawer before login | Slide-out drawer with stats and win-rate ring after login | Win-rate ring and season-filtered account stats |
+
+| Frequent Heroes | Friends | Match History |
+|---|---|---|
+| <img src="assets/mlbb-stats/frequent_heroes.png" width="160"/> | <img src="assets/mlbb-stats/friends.png" width="160"/> | <img src="assets/mlbb-stats/matches_history.png" width="160"/> |
+| Most-played heroes with season picker | Friends list with season picker | Paginated match history with per-match scoreboard |
+
+| Match History Filter |
+|---|
+| <img src="assets/mlbb-stats/matches_history_filter.png" width="160"/> |
+| Season filter for match history |
 
 **Hero Detail**
 
-| Overview | Stats | Counters | Skill Combos | Compatibility | Relations |
-|---|---|---|---|---|---|
-| <img src="assets/mlbb-stats/hero_detail_overview.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_stats.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_counters.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_skills_combo.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_compatibility.png" width="160"/> | <img src="assets/mlbb-stats/hero_detail_relations.png" width="160"/> |
-| Splash art, lore, and skills with video previews | Hero stat breakdown | Counter matchups | Recommended skill combo sequences | Compatibility with other heroes | Synergy and relation mapping |
+| Overview | Stats | Counters |
+|---|---|---|
+| <img src="assets/mlbb-stats/hero_detail_overview.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_stats.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_counters.gif" width="160"/> |
+| Splash art, lore, and skills with video previews | Hero stat breakdown | Counter matchups |
+
+| Skill Combos | Compatibility | Relations |
+|---|---|---|
+| <img src="assets/mlbb-stats/hero_detail_skills_combo.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_compatibility.png" width="160"/> | <img src="assets/mlbb-stats/hero_detail_relations.png" width="160"/> |
+| Recommended skill combo sequences | Compatibility with other heroes | Synergy and relation mapping |
 
 **Settings & Filters**
 
@@ -89,8 +114,8 @@
 
 ### Hero Data
 - **Hero list** — full roster with avatar/minimap icons and infinite-scroll pagination
-- **Rankings** — win, appearance, and ban rates filterable by rank tier with sorting
-- **Positions** — filter by lane and class with flip-card presentation
+- **Rankings** — win rates, pick rates, and ban rates filterable by rank tier with sorting
+- **Positions** — filter by lane and role with flip-card presentation
 - **Hero detail** — 7 tabs: Overview (splash art, lore, skills with video previews), Stats, Skill Combos, Trends, Counters, Relations, and Compatibility
 - **Academy** — equipment, battle spells, and emblem sets
 - **Search** — cross-module hero search
