@@ -43,61 +43,45 @@
 
 **Launch & Auth**
 
-<p align="center">
-  <img src="assets/mlbb-stats/splash_screen.png" width="160"/>
-  <img src="assets/mlbb-stats/login_screen.png" width="160"/>
-</p>
+| Splash Screen | Login |
+|---|---|
+| <img src="assets/mlbb-stats/splash_screen.png" width="160"/> | <img src="assets/mlbb-stats/login_screen.png" width="160"/> |
+| Metal-rendered particle spiral and ring flare launch animation | MLBB in-game login via Game ID, Server ID, and verification code |
 
 **Heroes**
 
-<p align="center">
-  <img src="assets/mlbb-stats/heroes_list.png" width="160"/>
-  <img src="assets/mlbb-stats/heroes_flow.png" width="160"/>
-  <img src="assets/mlbb-stats/hero_rankings.png" width="160"/>
-  <img src="assets/mlbb-stats/hero_positions.png" width="160"/>
-  <img src="assets/mlbb-stats/hero_search.png" width="160"/>
-  <img src="assets/mlbb-stats/hero_favorite.png" width="160"/>
-</p>
+| Hero List | Heroes Flow | Hero Rankings | Hero Positions | Hero Search | Hero Favorite |
+|---|---|---|---|---|---|
+| <img src="assets/mlbb-stats/heroes_list.png" width="160"/> | <img src="assets/mlbb-stats/heroes_flow.png" width="160"/> | <img src="assets/mlbb-stats/hero_rankings.png" width="160"/> | <img src="assets/mlbb-stats/hero_positions.png" width="160"/> | <img src="assets/mlbb-stats/hero_search.png" width="160"/> | <img src="assets/mlbb-stats/hero_favorite.png" width="160"/> |
+| Full hero roster with avatar icons and infinite-scroll pagination | Navigation flow between hero list and detail views | Win rates, pick rates, and ban rates filterable by rank tier | Heroes filtered by lane and role with flip-card presentation | Cross-module hero search | Locally stored favorite heroes |
 
 **Academy**
 
-<p align="center">
-  <img src="assets/mlbb-stats/academy_ranks.png" width="160"/>
-  <img src="assets/mlbb-stats/academy_recommended.png" width="160"/>
-  <img src="assets/mlbb-stats/academy_spells.png" width="160"/>
-  <img src="assets/mlbb-stats/academy_emblems.png" width="160"/>
-</p>
+| Ranks | Recommended | Battle Spells | Emblems |
+|---|---|---|---|
+| <img src="assets/mlbb-stats/academy_ranks.png" width="160"/> | <img src="assets/mlbb-stats/academy_recommended.png" width="160"/> | <img src="assets/mlbb-stats/academy_spells.png" width="160"/> | <img src="assets/mlbb-stats/academy_emblems.png" width="160"/> |
+| Rank-tier breakdown and progression guidance | Recommended equipment builds | Battle spell reference | Emblem set reference |
 
 **User Profile**
 
-<p align="center">
-  <img src="assets/mlbb-stats/side_menu_guest.png" width="160"/>
-  <img src="assets/mlbb-stats/side_menu_user.png" width="160"/>
-  <img src="assets/mlbb-stats/user_stats.png" width="160"/>
-  <img src="assets/mlbb-stats/frequent_heroes.png" width="160"/>
-  <img src="assets/mlbb-stats/friends.png" width="160"/>
-  <img src="assets/mlbb-stats/matches_history.png" width="160"/>
-  <img src="assets/mlbb-stats/matches_history_filter.png" width="160"/>
-</p>
+| Side Menu (Guest) | Side Menu (User) | User Stats | Frequent Heroes | Friends | Match History | Match History Filter |
+|---|---|---|---|---|---|---|
+| <img src="assets/mlbb-stats/side_menu_guest.png" width="160"/> | <img src="assets/mlbb-stats/side_menu_user.png" width="160"/> | <img src="assets/mlbb-stats/user_stats.png" width="160"/> | <img src="assets/mlbb-stats/frequent_heroes.png" width="160"/> | <img src="assets/mlbb-stats/friends.png" width="160"/> | <img src="assets/mlbb-stats/matches_history.png" width="160"/> | <img src="assets/mlbb-stats/matches_history_filter.png" width="160"/> |
+| Slide-out drawer before login | Slide-out drawer with stats and win-rate ring after login | Win-rate ring and season-filtered account stats | Most-played heroes with season picker | Friends list with season picker | Paginated match history with per-match scoreboard | Season filter for match history |
 
 **Hero Detail**
 
-<p align="center">
-  <img src="assets/mlbb-stats/hero_detail_overview.gif" width="160"/>
-  <img src="assets/mlbb-stats/hero_detail_stats.gif" width="160"/>
-  <img src="assets/mlbb-stats/hero_detail_counters.gif" width="160"/>
-  <img src="assets/mlbb-stats/hero_detail_skills_combo.gif" width="160"/>
-  <img src="assets/mlbb-stats/hero_detail_compatibility.png" width="160"/>
-  <img src="assets/mlbb-stats/hero_detail_relations.png" width="160"/>
-</p>
+| Overview | Stats | Counters | Skill Combos | Compatibility | Relations |
+|---|---|---|---|---|---|
+| <img src="assets/mlbb-stats/hero_detail_overview.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_stats.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_counters.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_skills_combo.gif" width="160"/> | <img src="assets/mlbb-stats/hero_detail_compatibility.png" width="160"/> | <img src="assets/mlbb-stats/hero_detail_relations.png" width="160"/> |
+| Splash art, lore, and skills with video previews | Hero stat breakdown | Counter matchups | Recommended skill combo sequences | Compatibility with other heroes | Synergy and relation mapping |
 
 **Settings & Filters**
 
-<p align="center">
-  <img src="assets/mlbb-stats/settings.png" width="160"/>
-  <img src="assets/mlbb-stats/content_language.png" width="160"/>
-  <img src="assets/mlbb-stats/fliter_sheet.png" width="160"/>
-</p>
+| Settings | Content Language | Filter Sheet |
+|---|---|---|
+| <img src="assets/mlbb-stats/settings.png" width="160"/> | <img src="assets/mlbb-stats/content_language.png" width="160"/> | <img src="assets/mlbb-stats/fliter_sheet.png" width="160"/> |
+| App settings and privacy toggles | Runtime language selection across 16 supported languages | Shared filter sheet used across ranking and position views |
 
 ---
 
