@@ -64,7 +64,7 @@
 
 ## Tech Stack
 
-> *Visit my [portfolio](https://portfolio-flame-eta-etrjgpxb96.vercel.app/).*
+> *Visit my [portfolio](https://www.sokpich.dev/).*
 
 <details open>
 <summary><b>Core — Mobile Engineering</b></summary>
