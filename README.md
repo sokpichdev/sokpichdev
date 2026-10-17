@@ -106,8 +106,8 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sokpichdev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center>
-  <img src="https://ghchart.rshah.org/58A6FF/sokpichdev" alt="Contribution graph" />
+<p align="center">
+  <img width="100%" src="assets/contribution-graph.svg" alt="Contribution graph" />
 </p>
 
 ---
