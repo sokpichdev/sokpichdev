@@ -17,14 +17,14 @@
 </defs>
 <rect width="1000" height="340" rx="6" fill="#1a1b27"/>
 <text x="56" y="40" fill="#70a5fd" font-size="20" font-weight="600">sokpichdev's Contribution Graph</text>
-<text x="56" y="64" fill="#565f89" font-size="13">Last 31 days · Sep 25 – Oct 25, 2026</text>
-<text x="968" y="40" text-anchor="end" fill="#a9b1d6" font-size="18" font-weight="600">0</text>
+<text x="56" y="64" fill="#565f89" font-size="13">Last 31 days · Sep 26 – Oct 26, 2026</text>
+<text x="968" y="40" text-anchor="end" fill="#a9b1d6" font-size="18" font-weight="600">1</text>
 <text x="968" y="62" text-anchor="end" fill="#565f89" font-size="12">Streak</text>
 <text x="858" y="40" text-anchor="end" fill="#a9b1d6" font-size="18" font-weight="600">47</text>
 <text x="858" y="62" text-anchor="end" fill="#565f89" font-size="12">Best day</text>
 <text x="748" y="40" text-anchor="end" fill="#a9b1d6" font-size="18" font-weight="600">28</text>
 <text x="748" y="62" text-anchor="end" fill="#565f89" font-size="12">Active days</text>
-<text x="638" y="40" text-anchor="end" fill="#a9b1d6" font-size="18" font-weight="600">385</text>
+<text x="638" y="40" text-anchor="end" fill="#a9b1d6" font-size="18" font-weight="600">382</text>
 <text x="638" y="62" text-anchor="end" fill="#565f89" font-size="12">Total</text>
 <line x1="56" y1="292.0" x2="968" y2="292.0" stroke="#2a2e45" stroke-dasharray="0"/>
 <text x="44" y="296.0" text-anchor="end" fill="#565f89" font-size="11">0</text>
@@ -36,50 +36,50 @@
 <text x="44" y="146.0" text-anchor="end" fill="#565f89" font-size="11">45</text>
 <line x1="56" y1="92.0" x2="968" y2="92.0" stroke="#2a2e45" stroke-dasharray="3 4"/>
 <text x="44" y="96.0" text-anchor="end" fill="#565f89" font-size="11">60</text>
-<text x="56.0" y="314" text-anchor="middle" fill="#565f89" font-size="11">25</text>
-<text x="147.2" y="314" text-anchor="middle" fill="#565f89" font-size="11">28</text>
-<text x="238.4" y="314" text-anchor="middle" fill="#565f89" font-size="11">1</text>
-<text x="329.6" y="314" text-anchor="middle" fill="#565f89" font-size="11">4</text>
-<text x="420.8" y="314" text-anchor="middle" fill="#565f89" font-size="11">7</text>
-<text x="512.0" y="314" text-anchor="middle" fill="#565f89" font-size="11">10</text>
-<text x="603.2" y="314" text-anchor="middle" fill="#565f89" font-size="11">13</text>
-<text x="694.4" y="314" text-anchor="middle" fill="#565f89" font-size="11">16</text>
-<text x="785.6" y="314" text-anchor="middle" fill="#565f89" font-size="11">19</text>
-<text x="876.8" y="314" text-anchor="middle" fill="#565f89" font-size="11">22</text>
-<text x="968.0" y="314" text-anchor="middle" fill="#565f89" font-size="11">25</text>
-<path class="fade" d="M56.0,275.3 C61.1,275.9 76.3,288.7 86.4,278.7 C96.5,268.7 106.7,217.0 116.8,215.3 C126.9,213.7 137.1,268.7 147.2,268.7 C157.3,268.7 167.5,220.9 177.6,215.3 C187.7,209.8 197.9,231.4 208.0,235.3 C218.1,239.2 228.3,231.4 238.4,238.7 C248.5,245.9 258.7,270.3 268.8,278.7 C278.9,287.0 289.1,292.6 299.2,288.7 C309.3,284.8 319.5,266.4 329.6,255.3 C339.7,244.2 349.9,242.0 360.0,222.0 C370.1,202.0 380.3,128.7 390.4,135.3 C400.5,142.0 410.7,244.8 420.8,262.0 C430.9,279.2 441.1,248.7 451.2,238.7 C461.3,228.7 471.5,202.6 481.6,202.0 C491.7,201.4 501.9,227.6 512.0,235.3 C522.1,243.1 532.3,249.8 542.4,248.7 C552.5,247.6 562.7,225.3 572.8,228.7 C582.9,232.0 593.1,263.1 603.2,268.7 C613.3,274.2 623.5,267.0 633.6,262.0 C643.7,257.0 653.9,244.2 664.0,238.7 C674.1,233.1 684.3,235.3 694.4,228.7 C704.5,222.0 714.7,198.1 724.8,198.7 C734.9,199.2 745.1,218.7 755.2,232.0 C765.3,245.3 775.5,269.2 785.6,278.7 C795.7,288.1 805.9,287.0 816.0,288.7 C826.1,290.3 836.3,289.2 846.4,288.7 C856.5,288.1 866.7,284.8 876.8,285.3 C886.9,285.9 897.1,290.9 907.2,292.0 C917.3,293.1 927.5,292.0 937.6,292.0 C947.7,292.0 962.9,292.0 968.0,292.0 L968.0,292 L56.0,292 Z" fill="url(#area)"/>
-<path class="line" d="M56.0,275.3 C61.1,275.9 76.3,288.7 86.4,278.7 C96.5,268.7 106.7,217.0 116.8,215.3 C126.9,213.7 137.1,268.7 147.2,268.7 C157.3,268.7 167.5,220.9 177.6,215.3 C187.7,209.8 197.9,231.4 208.0,235.3 C218.1,239.2 228.3,231.4 238.4,238.7 C248.5,245.9 258.7,270.3 268.8,278.7 C278.9,287.0 289.1,292.6 299.2,288.7 C309.3,284.8 319.5,266.4 329.6,255.3 C339.7,244.2 349.9,242.0 360.0,222.0 C370.1,202.0 380.3,128.7 390.4,135.3 C400.5,142.0 410.7,244.8 420.8,262.0 C430.9,279.2 441.1,248.7 451.2,238.7 C461.3,228.7 471.5,202.6 481.6,202.0 C491.7,201.4 501.9,227.6 512.0,235.3 C522.1,243.1 532.3,249.8 542.4,248.7 C552.5,247.6 562.7,225.3 572.8,228.7 C582.9,232.0 593.1,263.1 603.2,268.7 C613.3,274.2 623.5,267.0 633.6,262.0 C643.7,257.0 653.9,244.2 664.0,238.7 C674.1,233.1 684.3,235.3 694.4,228.7 C704.5,222.0 714.7,198.1 724.8,198.7 C734.9,199.2 745.1,218.7 755.2,232.0 C765.3,245.3 775.5,269.2 785.6,278.7 C795.7,288.1 805.9,287.0 816.0,288.7 C826.1,290.3 836.3,289.2 846.4,288.7 C856.5,288.1 866.7,284.8 876.8,285.3 C886.9,285.9 897.1,290.9 907.2,292.0 C917.3,293.1 927.5,292.0 937.6,292.0 C947.7,292.0 962.9,292.0 968.0,292.0" fill="none" stroke="url(#stroke)" stroke-width="2.5" stroke-linecap="round"/>
+<text x="56.0" y="314" text-anchor="middle" fill="#565f89" font-size="11">26</text>
+<text x="147.2" y="314" text-anchor="middle" fill="#565f89" font-size="11">29</text>
+<text x="238.4" y="314" text-anchor="middle" fill="#565f89" font-size="11">2</text>
+<text x="329.6" y="314" text-anchor="middle" fill="#565f89" font-size="11">5</text>
+<text x="420.8" y="314" text-anchor="middle" fill="#565f89" font-size="11">8</text>
+<text x="512.0" y="314" text-anchor="middle" fill="#565f89" font-size="11">11</text>
+<text x="603.2" y="314" text-anchor="middle" fill="#565f89" font-size="11">14</text>
+<text x="694.4" y="314" text-anchor="middle" fill="#565f89" font-size="11">17</text>
+<text x="785.6" y="314" text-anchor="middle" fill="#565f89" font-size="11">20</text>
+<text x="876.8" y="314" text-anchor="middle" fill="#565f89" font-size="11">23</text>
+<text x="968.0" y="314" text-anchor="middle" fill="#565f89" font-size="11">26</text>
+<path class="fade" d="M56.0,278.7 C61.1,268.1 76.3,217.0 86.4,215.3 C96.5,213.7 106.7,268.7 116.8,268.7 C126.9,268.7 137.1,220.9 147.2,215.3 C157.3,209.8 167.5,231.4 177.6,235.3 C187.7,239.2 197.9,231.4 208.0,238.7 C218.1,245.9 228.3,270.3 238.4,278.7 C248.5,287.0 258.7,292.6 268.8,288.7 C278.9,284.8 289.1,266.4 299.2,255.3 C309.3,244.2 319.5,242.0 329.6,222.0 C339.7,202.0 349.9,128.7 360.0,135.3 C370.1,142.0 380.3,244.8 390.4,262.0 C400.5,279.2 410.7,248.7 420.8,238.7 C430.9,228.7 441.1,202.6 451.2,202.0 C461.3,201.4 471.5,227.6 481.6,235.3 C491.7,243.1 501.9,249.8 512.0,248.7 C522.1,247.6 532.3,225.3 542.4,228.7 C552.5,232.0 562.7,263.1 572.8,268.7 C582.9,274.2 593.1,267.0 603.2,262.0 C613.3,257.0 623.5,244.2 633.6,238.7 C643.7,233.1 653.9,235.3 664.0,228.7 C674.1,222.0 684.3,198.1 694.4,198.7 C704.5,199.2 714.7,218.7 724.8,232.0 C734.9,245.3 745.1,269.2 755.2,278.7 C765.3,288.1 775.5,287.0 785.6,288.7 C795.7,290.3 805.9,289.2 816.0,288.7 C826.1,288.1 836.3,284.8 846.4,285.3 C856.5,285.9 866.7,290.9 876.8,292.0 C886.9,293.1 897.1,292.0 907.2,292.0 C917.3,292.0 927.5,293.1 937.6,292.0 C947.7,290.9 962.9,286.4 968.0,285.3 L968.0,292 L56.0,292 Z" fill="url(#area)"/>
+<path class="line" d="M56.0,278.7 C61.1,268.1 76.3,217.0 86.4,215.3 C96.5,213.7 106.7,268.7 116.8,268.7 C126.9,268.7 137.1,220.9 147.2,215.3 C157.3,209.8 167.5,231.4 177.6,235.3 C187.7,239.2 197.9,231.4 208.0,238.7 C218.1,245.9 228.3,270.3 238.4,278.7 C248.5,287.0 258.7,292.6 268.8,288.7 C278.9,284.8 289.1,266.4 299.2,255.3 C309.3,244.2 319.5,242.0 329.6,222.0 C339.7,202.0 349.9,128.7 360.0,135.3 C370.1,142.0 380.3,244.8 390.4,262.0 C400.5,279.2 410.7,248.7 420.8,238.7 C430.9,228.7 441.1,202.6 451.2,202.0 C461.3,201.4 471.5,227.6 481.6,235.3 C491.7,243.1 501.9,249.8 512.0,248.7 C522.1,247.6 532.3,225.3 542.4,228.7 C552.5,232.0 562.7,263.1 572.8,268.7 C582.9,274.2 593.1,267.0 603.2,262.0 C613.3,257.0 623.5,244.2 633.6,238.7 C643.7,233.1 653.9,235.3 664.0,228.7 C674.1,222.0 684.3,198.1 694.4,198.7 C704.5,199.2 714.7,218.7 724.8,232.0 C734.9,245.3 745.1,269.2 755.2,278.7 C765.3,288.1 775.5,287.0 785.6,288.7 C795.7,290.3 805.9,289.2 816.0,288.7 C826.1,288.1 836.3,284.8 846.4,285.3 C856.5,285.9 866.7,290.9 876.8,292.0 C886.9,293.1 897.1,292.0 907.2,292.0 C917.3,292.0 927.5,293.1 937.6,292.0 C947.7,290.9 962.9,286.4 968.0,285.3" fill="none" stroke="url(#stroke)" stroke-width="2.5" stroke-linecap="round"/>
 <g class="fade">
-<circle cx="56.0" cy="275.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 25: 5</title></circle>
-<circle cx="86.4" cy="278.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 26: 4</title></circle>
-<circle cx="116.8" cy="215.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 27: 23</title></circle>
-<circle cx="147.2" cy="268.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 28: 7</title></circle>
-<circle cx="177.6" cy="215.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 29: 23</title></circle>
-<circle cx="208.0" cy="235.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 30: 17</title></circle>
-<circle cx="238.4" cy="238.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 01: 16</title></circle>
-<circle cx="268.8" cy="278.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 02: 4</title></circle>
-<circle cx="299.2" cy="288.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 03: 1</title></circle>
-<circle cx="329.6" cy="255.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 04: 11</title></circle>
-<circle cx="360.0" cy="222.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 05: 21</title></circle>
-<circle cx="390.4" cy="135.3" r="4" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 06: 47</title></circle>
-<circle cx="420.8" cy="262.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 07: 9</title></circle>
-<circle cx="451.2" cy="238.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 08: 16</title></circle>
-<circle cx="481.6" cy="202.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 09: 27</title></circle>
-<circle cx="512.0" cy="235.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 10: 17</title></circle>
-<circle cx="542.4" cy="248.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 11: 13</title></circle>
-<circle cx="572.8" cy="228.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 12: 19</title></circle>
-<circle cx="603.2" cy="268.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 13: 7</title></circle>
-<circle cx="633.6" cy="262.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 14: 9</title></circle>
-<circle cx="664.0" cy="238.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 15: 16</title></circle>
-<circle cx="694.4" cy="228.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 16: 19</title></circle>
-<circle cx="724.8" cy="198.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 17: 28</title></circle>
-<circle cx="755.2" cy="232.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 18: 18</title></circle>
-<circle cx="785.6" cy="278.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 19: 4</title></circle>
-<circle cx="816.0" cy="288.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 20: 1</title></circle>
-<circle cx="846.4" cy="288.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 21: 1</title></circle>
-<circle cx="876.8" cy="285.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 22: 2</title></circle>
-<circle cx="907.2" cy="292.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 23: 0</title></circle>
-<circle cx="937.6" cy="292.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 24: 0</title></circle>
-<circle cx="968.0" cy="292.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 25: 0</title></circle>
+<circle cx="56.0" cy="278.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 26: 4</title></circle>
+<circle cx="86.4" cy="215.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 27: 23</title></circle>
+<circle cx="116.8" cy="268.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 28: 7</title></circle>
+<circle cx="147.2" cy="215.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 29: 23</title></circle>
+<circle cx="177.6" cy="235.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Sep 30: 17</title></circle>
+<circle cx="208.0" cy="238.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 01: 16</title></circle>
+<circle cx="238.4" cy="278.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 02: 4</title></circle>
+<circle cx="268.8" cy="288.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 03: 1</title></circle>
+<circle cx="299.2" cy="255.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 04: 11</title></circle>
+<circle cx="329.6" cy="222.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 05: 21</title></circle>
+<circle cx="360.0" cy="135.3" r="4" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 06: 47</title></circle>
+<circle cx="390.4" cy="262.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 07: 9</title></circle>
+<circle cx="420.8" cy="238.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 08: 16</title></circle>
+<circle cx="451.2" cy="202.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 09: 27</title></circle>
+<circle cx="481.6" cy="235.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 10: 17</title></circle>
+<circle cx="512.0" cy="248.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 11: 13</title></circle>
+<circle cx="542.4" cy="228.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 12: 19</title></circle>
+<circle cx="572.8" cy="268.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 13: 7</title></circle>
+<circle cx="603.2" cy="262.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 14: 9</title></circle>
+<circle cx="633.6" cy="238.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 15: 16</title></circle>
+<circle cx="664.0" cy="228.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 16: 19</title></circle>
+<circle cx="694.4" cy="198.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 17: 28</title></circle>
+<circle cx="724.8" cy="232.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 18: 18</title></circle>
+<circle cx="755.2" cy="278.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 19: 4</title></circle>
+<circle cx="785.6" cy="288.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 20: 1</title></circle>
+<circle cx="816.0" cy="288.7" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 21: 1</title></circle>
+<circle cx="846.4" cy="285.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 22: 2</title></circle>
+<circle cx="876.8" cy="292.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 23: 0</title></circle>
+<circle cx="907.2" cy="292.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 24: 0</title></circle>
+<circle cx="937.6" cy="292.0" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 25: 0</title></circle>
+<circle cx="968.0" cy="285.3" r="2.5" fill="#1a1b27" stroke="#58a6ff" stroke-width="2"><title>Oct 26: 2</title></circle>
 </g>
 </svg>
