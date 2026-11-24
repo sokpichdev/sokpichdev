@@ -51,7 +51,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[NextOutcome](https://github.com/sokpichdev/NextOutcome)** | Native iOS Polymarket client — live order books, live sports data, and a 3D World Cup globe. | SwiftUI, Swift Charts, SceneKit, Swift Concurrency |
+| <img src="projects/assets/nextoutcome/app_icon.png" alt="" width="20" /> **[NextOutcome](projects/nextoutcome.md)** | Native iOS Polymarket client — live order books, live sports data, and a 3D World Cup globe. | SwiftUI, Swift Charts, SceneKit, Swift Concurrency |
 | **[DevDesign](https://github.com/sokpichdev/DevDesign)** | Offline-first asset & design utility tailored for engineers. | SwiftUI, SwiftData, CloudKit |
 | **[CoffeeCraft](https://github.com/sokpichdev/CoffeeCraft)** | Full-stack commerce playground featuring user/admin roles and geofenced mapping. | SwiftUI, Firebase, MapKit |
 | **[MLBB MetaSight](projects/mlbb-stats.md)** | Low-overhead companion dashboard displaying advanced hero analytical models. | SwiftUI, async/await, Metal |
