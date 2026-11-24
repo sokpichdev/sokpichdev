@@ -33,6 +33,7 @@
 | :--- | :--- | :--- |
 | **[Folkara](projects/folkara.md)** | HR & Workflow Management platform — biometrics, complex multi-step approvals, and live sync. | SwiftUI, MVVM, Firebase, Fastlane, Push Notifications |
 | **[LuckyInfos](projects/infoweb-ios.md)** | Real-time sports & lottery insights platform — low-latency data streams with secure encryption. | SwiftUI, MVVM, Socket.IO, Firebase, AES Encryption |
+| **[Nomi](projects/nomi.md)** | Location-based social discovery app — Flutter on Android, native SwiftUI on iOS, with Protobuf real-time chat and WebRTC calls. | Flutter (Android), Swift/SwiftUI (iOS), Clean Architecture, WebRTC, CallKit, Protobuf |
 
 </details>
 
